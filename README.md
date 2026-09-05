@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<p>chunk#0 • tile#27 • streak 🔥 3 • broken: 027</p>
+<p>CHUNK#0 • TILE#30 • 🔥STREAK#3 • BROKEN#030</p>
 
 </div>
 <!-- BREAKME:END -->
