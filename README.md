@@ -9,12 +9,12 @@
       UNLOCKED: <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="./BREAKME-board.svg" width="205" alt="BREAKME.md Board" />
+      <img src="./BREAKME-board.svg" width="480" alt="BREAKME.md Board" />
     </td>
   </tr>
 </table>
 
-<p>chunk#0 • tile#20 • streak 🔥 3 • broken: 020</p>
+<p>chunk#0 • tile#23 • streak 🔥 3 • broken: 023</p>
 
 </div>
 <!-- BREAKME:END -->
