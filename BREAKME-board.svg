@@ -106,7 +106,8 @@
 		<use href="#char-base" class="player fg" />
 	</g>
 	<g class="grid-cell" transform="translate(30, 5)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-base" class="variant-dirt" />
+		<use href="#tile-base" class="effect-negative" fill="none" />
 	</g>
 	<g class="grid-cell" transform="translate(55, 5)">
 		<use href="#tile-base" class="fg" />
@@ -115,8 +116,7 @@
 		<use href="#tile-base" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(105, 5)">
-		<use href="#tile-base" class="variant-dirt" />
-		<use href="#tile-base" class="effect-negative" fill="none" />
+		<use href="#tile-base" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(130, 5)">
 		<use href="#tile-base" class="fg" />
@@ -125,10 +125,11 @@
 		<use href="#tile-base" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(180, 5)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-base" class="variant-dirt" />
 	</g>
 	<g class="grid-cell" transform="translate(5, 30)">
 		<use href="#tile-base" class="fg" />
+		<use href="#tile-base" class="effect-negative" fill="none" />
 	</g>
 	<g class="grid-cell" transform="translate(30, 30)">
 		<use href="#tile-hidden" class="accent" />
@@ -242,15 +243,6 @@
 		<use href="#tile-hidden" class="accent" />
 	</g>
 	<g class="grid-cell" transform="translate(155, 130)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(180, 130)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(5, 155)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(30, 155)">
 		<use href="#tile-hidden" class="accent" />
 	</g>
 </svg>

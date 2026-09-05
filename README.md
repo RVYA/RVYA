@@ -1,10 +1,12 @@
 <!-- BREAKME:START -->
+<div align="center">
+
 ## BREAKME.md
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="left" valign="middle">
-      <code>UNLOCKED:</code> <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
+      UNLOCKED: <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="./BREAKME-board.svg" width="205" alt="BREAKME.md Board" />
@@ -12,7 +14,9 @@
   </tr>
 </table>
 
-<code>chunk#0 tile#15 streak🔥3 broken: 015</code>
+<p>chunk#0 • tile#18 • streak 🔥 3 • broken: 018</p>
+
+</div>
 <!-- BREAKME:END -->
 
 <!--
