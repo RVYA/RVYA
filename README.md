@@ -1,9 +1,9 @@
 <!-- BREAKME:START -->
-<div align="center">
+<div align="center" style="width: 100%;">
 
 ## BREAKME.md
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="width: 100%; table-layout: fixed;">
   <tr>
     <td width="50%" align="left" valign="middle">
       UNLOCKED: <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-<p>chunk#0 • tile#18 • streak 🔥 3 • broken: 018</p>
+<p>chunk#0 • tile#20 • streak 🔥 3 • broken: 020</p>
 
 </div>
 <!-- BREAKME:END -->
