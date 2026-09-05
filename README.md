@@ -1,4 +1,20 @@
 <!-- BREAKME:START -->
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>⛏️ BREAKME.md</h3>
+      <p>
+        <b>Chunk:</b> #0 &nbsp;|&nbsp; <b>Tile:</b> 13/63<br/>
+        <b>Streak:</b> 🔥 3 day(s) &nbsp;|&nbsp; <b>Total Broken:</b> 13
+      </p>
+      <h4>✨ Unlockables</h4>
+      <p><span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span></p>
+    </td>
+    <td valign="top" align="center" width="45%">
+      <img src="./BREAKME-board.svg" width="205" alt="BREAKME.md Board" />
+    </td>
+  </tr>
+</table>
 <!-- BREAKME:END -->
 
 <!--
