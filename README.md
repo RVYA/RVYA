@@ -3,12 +3,12 @@
 
 ## BREAKME.md
 
-<table align="center" width="640">
+<table align="center" width="640" style="width: 100%; max-width: 640px;">
   <tr>
-    <td align="center" width="25%">CHUNK#000</td>
-    <td align="center" width="25%">TILE#043</td>
-    <td align="center" width="25%">🔥STREAK#004</td>
-    <td align="center" width="25%">BROKEN#043</td>
+    <td align="center" width="25%">⛰️<i>CHUNK</i><b>#000</b></td>
+    <td align="center" width="25%">🪨<i>TILE</i><b>#044</b></td>
+    <td align="center" width="25%">🔥<i>STREAK</i><b>#004</b></td>
+    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#044</b></td>
   </tr>
   <tr>
     <td colspan="4" align="center">
