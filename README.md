@@ -3,19 +3,20 @@
 
 ## BREAKME.md
 
-<table align="center" width="480">
+<table align="center" width="640">
   <tr>
-    <td align="center">
-      CHUNK#0 • TILE#42 • 🔥STREAK#4 • BROKEN#042
+    <td align="center" width="25%">CHUNK#000</td>
+    <td align="center" width="25%">TILE#043</td>
+    <td align="center" width="25%">🔥STREAK#004</td>
+    <td align="center" width="25%">BROKEN#043</td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <img src="./BREAKME-board.svg" width="640" alt="BREAKME.md Board" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="./BREAKME-board.svg" width="480" alt="BREAKME.md Board" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td colspan="4" align="center">
       COLLECTED (003/003): <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
     </td>
   </tr>
