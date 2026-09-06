@@ -1,20 +1,25 @@
 <!-- BREAKME:START -->
-<div align="center" style="width: 100%;">
+<div align="center">
 
 ## BREAKME.md
 
-<table align="center" width="100%" style="width: 100%; table-layout: fixed;">
+<table align="center" width="480">
   <tr>
-    <td width="50%" align="left" valign="middle">
-      UNLOCKED: <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
+    <td align="center">
+      CHUNK#0 • TILE#40 • 🔥STREAK#3 • BROKEN#040
     </td>
-    <td width="50%" align="center" valign="middle">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="./BREAKME-board.svg" width="480" alt="BREAKME.md Board" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      COLLECTED (003/003): <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
+    </td>
+  </tr>
 </table>
-
-<p>CHUNK#0 • TILE#38 • 🔥STREAK#3 • BROKEN#038</p>
 
 </div>
 <!-- BREAKME:END -->
