@@ -1,0 +1,1138 @@
+{
+  "hash": "cc999ceebd686472314f1be9599b7afe6b95db017294c262e6b31aa902f7b9fa",
+  "player": {
+    "identity": {
+      "username": "RVYA",
+      "baseSeed": "4b054109",
+      "createdAt": "2026-09-07T20:00:01.392Z"
+    },
+    "progress": {
+      "chunkIndex": 0,
+      "tileIndex": 10,
+      "totalTilesBroken": 10
+    },
+    "activity": {
+      "currentStreak": 5,
+      "highestStreak": 5,
+      "lastActiveDate": "2026-09-07",
+      "mostDamage": 43.4
+    },
+    "inventory": {
+      "collectibles": [
+        "🔵 Companion Cube Keyring",
+        "🎲 D20 Rolling a Natural 1",
+        "🎮 Memory Card 8MB"
+      ]
+    }
+  },
+  "currentChunk": {
+    "index": 0,
+    "tiles": [
+      {
+        "index": 0,
+        "shape": "Blob",
+        "effect": "Stasis",
+        "currentHp": 0,
+        "maxHp": 10
+      },
+      {
+        "index": 1,
+        "shape": "Chipped",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 2,
+        "shape": "Biscuit",
+        "currentHp": 0,
+        "maxHp": 4
+      },
+      {
+        "index": 3,
+        "shape": "Biscuit",
+        "variant": "Broken",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 4,
+        "shape": "Chipped",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 5,
+        "shape": "Chipped",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 6,
+        "shape": "Half",
+        "variant": "Moss",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 7,
+        "shape": "Chipped",
+        "variant": "Broken",
+        "currentHp": 0,
+        "maxHp": 3
+      },
+      {
+        "index": 8,
+        "shape": "Base",
+        "currentHp": 0,
+        "maxHp": 4
+      },
+      {
+        "index": 9,
+        "shape": "Base",
+        "currentHp": 0,
+        "maxHp": 4
+      },
+      {
+        "index": 10,
+        "shape": "Chipped",
+        "variant": "Wood",
+        "effect": "Hot",
+        "currentHp": 0.6000000000000001,
+        "maxHp": 4
+      },
+      {
+        "index": 11,
+        "shape": "Chipped",
+        "variant": "Moss",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 12,
+        "shape": "Chipped",
+        "variant": "Dirt",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 13,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 14,
+        "shape": "Chipped",
+        "variant": "Dirt",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 15,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 16,
+        "shape": "Bread",
+        "variant": "Wood",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 17,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 18,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 19,
+        "shape": "Biscuit",
+        "effect": "Negative",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 20,
+        "shape": "Bread",
+        "variant": "Wood",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 21,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 22,
+        "shape": "Bread",
+        "variant": "Broken",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 23,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 24,
+        "shape": "Donut",
+        "variant": "Terminal",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 25,
+        "shape": "Blob",
+        "effect": "Brittle",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 26,
+        "shape": "Blob",
+        "variant": "Terracotta",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 27,
+        "shape": "Base",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 28,
+        "shape": "Bread",
+        "variant": "Dirt",
+        "currentHp": 7,
+        "maxHp": 7
+      },
+      {
+        "index": 29,
+        "shape": "Donut",
+        "variant": "Blueprint",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 30,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 31,
+        "shape": "Bread",
+        "variant": "Terracotta",
+        "currentHp": 7,
+        "maxHp": 7
+      },
+      {
+        "index": 32,
+        "shape": "Donut",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 33,
+        "shape": "Base",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 34,
+        "shape": "Donut",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 35,
+        "shape": "Chipped",
+        "effect": "Blessed",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 36,
+        "shape": "Biscuit",
+        "variant": "Wood",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 37,
+        "shape": "Biscuit",
+        "variant": "Dirt",
+        "effect": "Overcharged",
+        "currentHp": 16,
+        "maxHp": 16
+      },
+      {
+        "index": 38,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 39,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 40,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 41,
+        "shape": "Tulip",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 42,
+        "shape": "Bread",
+        "variant": "Wood",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 43,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 44,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 45,
+        "shape": "Biscuit",
+        "variant": "Moss",
+        "effect": "Negative",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 46,
+        "shape": "Bread",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 47,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 48,
+        "shape": "Donut",
+        "variant": "Terracotta",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 49,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 50,
+        "shape": "Blob",
+        "variant": "Terracotta",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 51,
+        "shape": "Half",
+        "variant": "Dirt",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 52,
+        "shape": "Biscuit",
+        "variant": "Candy",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 53,
+        "shape": "Tulip",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 54,
+        "shape": "Water",
+        "variant": "Moss",
+        "currentHp": 9,
+        "maxHp": 9
+      },
+      {
+        "index": 55,
+        "shape": "Tree",
+        "variant": "Amber",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 56,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 57,
+        "shape": "Shield",
+        "variant": "Dirt",
+        "currentHp": 14,
+        "maxHp": 14
+      },
+      {
+        "index": 58,
+        "shape": "Biscuit",
+        "variant": "Dirt",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 59,
+        "shape": "Shield",
+        "variant": "Dirt",
+        "currentHp": 14,
+        "maxHp": 14
+      },
+      {
+        "index": 60,
+        "shape": "Water",
+        "currentHp": 7,
+        "maxHp": 7
+      },
+      {
+        "index": 61,
+        "shape": "Tree",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 62,
+        "shape": "Tree",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 63,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 64,
+        "shape": "Base",
+        "variant": "Broken",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 65,
+        "shape": "Chipped",
+        "effect": "Negative",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 66,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 67,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 68,
+        "shape": "Tree",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 69,
+        "shape": "Biscuit",
+        "variant": "Dirt",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 70,
+        "shape": "Tree",
+        "variant": "Wood",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 71,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 72,
+        "shape": "Base",
+        "variant": "Dirt",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 73,
+        "shape": "Shield",
+        "currentHp": 12,
+        "maxHp": 12
+      },
+      {
+        "index": 74,
+        "shape": "Donut",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 75,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 76,
+        "shape": "Tulip",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 77,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 78,
+        "shape": "Chipped",
+        "variant": "Terracotta",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 79,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 80,
+        "shape": "Blob",
+        "variant": "Wood",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 81,
+        "shape": "Shield",
+        "currentHp": 12,
+        "maxHp": 12
+      },
+      {
+        "index": 82,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 83,
+        "shape": "Tree",
+        "variant": "Circuit",
+        "currentHp": 14,
+        "maxHp": 14
+      },
+      {
+        "index": 84,
+        "shape": "Jagged",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 85,
+        "shape": "Tulip",
+        "variant": "Wood",
+        "effect": "Cold",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 86,
+        "shape": "Donut",
+        "variant": "Dirt",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 87,
+        "shape": "Jagged",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 88,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 89,
+        "shape": "Floral",
+        "variant": "Dirt",
+        "effect": "Stasis",
+        "currentHp": 23,
+        "maxHp": 23
+      },
+      {
+        "index": 90,
+        "shape": "Tulip",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 91,
+        "shape": "Tulip",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 92,
+        "shape": "Donut",
+        "variant": "Dirt",
+        "effect": "Negative",
+        "currentHp": 6,
+        "maxHp": 6
+      },
+      {
+        "index": 93,
+        "shape": "Tree",
+        "variant": "Wood",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 94,
+        "shape": "Tulip",
+        "effect": "Overcharged",
+        "currentHp": 21,
+        "maxHp": 21
+      },
+      {
+        "index": 95,
+        "shape": "Chipped",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 96,
+        "shape": "Chipped",
+        "variant": "Moss",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 97,
+        "shape": "Base",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 98,
+        "shape": "Base",
+        "variant": "Wood",
+        "effect": "Negative",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 99,
+        "shape": "Chipped",
+        "variant": "Dirt",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 100,
+        "shape": "Water",
+        "variant": "Terracotta",
+        "effect": "Negative",
+        "currentHp": 9,
+        "maxHp": 9
+      },
+      {
+        "index": 101,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 102,
+        "shape": "Chipped",
+        "effect": "Overcharged",
+        "currentHp": 11,
+        "maxHp": 11
+      },
+      {
+        "index": 103,
+        "shape": "Tree",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 104,
+        "shape": "Spark",
+        "currentHp": 18,
+        "maxHp": 18
+      },
+      {
+        "index": 105,
+        "shape": "Half",
+        "variant": "Moss",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 106,
+        "shape": "Biscuit",
+        "effect": "Levitating",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 107,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 108,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 109,
+        "shape": "Biscuit",
+        "variant": "Wood",
+        "effect": "Blessed",
+        "currentHp": 8,
+        "maxHp": 8
+      },
+      {
+        "index": 110,
+        "shape": "Mountain",
+        "variant": "Wood",
+        "currentHp": 17,
+        "maxHp": 17
+      },
+      {
+        "index": 111,
+        "shape": "Biscuit",
+        "variant": "Moss",
+        "effect": "Overcharged",
+        "currentHp": 17,
+        "maxHp": 17
+      },
+      {
+        "index": 112,
+        "shape": "Butterfly",
+        "currentHp": 9,
+        "maxHp": 9
+      },
+      {
+        "index": 113,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 114,
+        "shape": "Tree",
+        "variant": "Zebra",
+        "effect": "Negative",
+        "currentHp": 10,
+        "maxHp": 10
+      },
+      {
+        "index": 115,
+        "shape": "Blob",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 116,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 117,
+        "shape": "Chipped",
+        "variant": "Circuit",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 118,
+        "shape": "Half",
+        "variant": "Terminal",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 119,
+        "shape": "Base",
+        "variant": "Jade",
+        "currentHp": 7,
+        "maxHp": 7
+      },
+      {
+        "index": 120,
+        "shape": "Half",
+        "currentHp": 2,
+        "maxHp": 2
+      },
+      {
+        "index": 121,
+        "shape": "Base",
+        "effect": "Negative",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 122,
+        "shape": "Base",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 123,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 124,
+        "shape": "Biscuit",
+        "currentHp": 4,
+        "maxHp": 4
+      },
+      {
+        "index": 125,
+        "shape": "Biscuit",
+        "variant": "Moss",
+        "currentHp": 5,
+        "maxHp": 5
+      },
+      {
+        "index": 126,
+        "shape": "Chipped",
+        "variant": "Candy",
+        "currentHp": 3,
+        "maxHp": 3
+      },
+      {
+        "index": 127,
+        "shape": "Shield",
+        "variant": "Amethyst",
+        "currentHp": 20,
+        "maxHp": 20
+      }
+    ],
+    "createdAt": "2026-09-07T20:00:01.392Z",
+    "isCleared": false
+  },
+  "collectiblePool": {
+    "common": [
+      "🦆 Rubber Duck with a PhD",
+      "🐱 Cat Sitting on Keyboard",
+      "☕ Stale Espresso Puck",
+      "🐕 Sleepy Golden Retriever",
+      "🪴 Desk Succulent in a Teacup",
+      "🧋 Taro Boba Milk Tea",
+      "🍞 Golden Bread Crumb",
+      "🍩 Sugar Glaze Flake",
+      "🪨 Compressed Peat",
+      "🪵 Seasoned Woodchip",
+      "🍬 Peppermint Shard",
+      "🧦 Missing Semicolon",
+      "🪶 Staged .DS_Store",
+      "🔥 'This is Fine' Mug",
+      "🪙 Doge Copper Coin",
+      "🍄 8-Bit Red Mushroom",
+      "❤️ Pixel Heart Container",
+      "📦 Cardboard Stealth Box",
+      "🍜 Steaming Naruto Ramen",
+      "🦜 Syntax Error Parrot",
+      "🦎 Chill Aquarium Axolotl",
+      "🦔 Cozy Desk Hedgehog",
+      "🧢 Red Ash Cap",
+      "🪀 Fidget Spinner of Focus",
+      "🎧 Foam Ear Cushion",
+      "🍪 Fortune Cookie (No Fortune Inside)",
+      "🥤 Lukewarm Energy Drink",
+      "📦 node_modules Fragment",
+      "📎 Clippy's Bent Wire",
+      "🧻 Git Blame Receipt",
+      "🍕 Cold Hackathon Slice",
+      "🩹 Deprecated Monkey Patch",
+      "🔋 1% Battery Warning",
+      "🧊 Cold Ice Cubelet",
+      "🌿 Mossy Pebble",
+      "🧱 Terra Cotta Shard",
+      "🌸 Sakura Blossom Petal",
+      "🔴 Red Polka Dot",
+      "🛡️ Scratched Steel Plate",
+      "🔨 Brittle Glass Shard",
+      "🔗 Iron Link Ring",
+      "💈 Barbed Needle Tip",
+      "🕯️ Scented Soy Candle",
+      "🎟️ Jira Ticket Stub",
+      "💡 Deprecated Idea Filament",
+      "🪟 Frosted Glass Pane",
+      "🧲 Refrigerator Magnet Letter 'C'",
+      "📬 Unread Notification Badge",
+      "🏷️ Pristine Git Tag",
+      "🧪 Pipette of Solder Flux",
+      "🪵 Chewed Pencil Stub",
+      "🫧 Soap Bubble Cache",
+      "🧵 Single-Thread Spool",
+      "🧱 1x1 Brick Stud",
+      "🍙 Onigiri Rice Ball",
+      "🪩 Tiny Disco Mirror Tile",
+      "🪗 8-Bit Chiptune Synth Key",
+      "🥪 Corner Cafe Panini",
+      "🧃 Juice Box with Bendy Straw",
+      "🥐 Butter Croissant Flake",
+      "🐹 Chinchilla Dust Bath Jar",
+      "🦆 Tiny Rubber Duckie Army",
+      "☕ French Press Plunger",
+      "🪅 Bubble Wrap Sheet",
+      "🥪 PB&J Cut Diagonally",
+      "🐱 Purring Calico Kitten",
+      "🖍️ Box of 64 Crayons with Sharpener",
+      "🎮 Classic Game Boy Cartridge",
+      "🧋 Strawberry Milk Bottle"
+    ],
+    "uncommon": [
+      "🫙 Detached HEAD in a Jar",
+      "⁏ Greek Question Mark",
+      "🪦 Legacy IE6 Polyfill",
+      "💾 Install Disk #17 of 42",
+      "🪤 Heisenbug Trap",
+      "🐕‍🦺 Capybara with an Orange on Its Head",
+      "🐈 Tuxedo Cat in a Loaf",
+      "🦝 Trash Panda with Half an Apple",
+      "📼 Rickroll Cassette Tape",
+      "📈 Stonks Rising Chart",
+      "🧪 Blue Mana Potion",
+      "🧪 Red Health Flask",
+      "🗡️ Master Sword Hilt Shard",
+      "🧱 Redstone Dust Pile",
+      "🎲 Bag of Polyhedral Dice",
+      "🧙 Miniature Painted Wizard",
+      "🃏 Foil Trading Card Booster Pack",
+      "🪶 Senzu Bean Pouch",
+      "📻 Walkman with Synthwave Tape",
+      "🏺 Ancient Copper Ingot",
+      "🪨 Sandstone Fossil",
+      "🪵 Petrified Amber Nugget",
+      "🦚 Bandana Cloth Patch",
+      "🌊 Seigaiha Wave Crest",
+      "🪶 Camo Webbing",
+      "🐝 Honeycomb Wax Cell",
+      "👘 Shibori Indigo Swatch",
+      "🌿 Monstera Leaf Cutting",
+      "🏛️ Carrara Marble Chip",
+      "🐢 Tortoiseshell Pick",
+      "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Tartan Ribbon",
+      "♟️ Houndstooth Fabric Square",
+      "🐆 Leopard Rosette Spot",
+      "🏺 Zellige Cobalt Tilelet",
+      "🪐 Zero-G Gyroscope",
+      "⏳ Stasis Hourglass",
+      "👥 Echo Silhouette",
+      "⚡ Volatile Spark Plug",
+      "🔮 Amethyst Geode Fragment",
+      "🪞 Rose Gold Locket",
+      "🟢 Jade Talisman",
+      "📐 Blueprint Compass",
+      "🪸 Coral Branchlet",
+      "📟 Monospace Green Cursor",
+      "🧲 Hitchhiker's Towel (42)",
+      "🪄 Wand of Refactoring",
+      "🕹️ Arcade Joystick Balltop",
+      "🍵 Ceremonial Matcha Whisk",
+      "🪅 Piñata Confetti Burst",
+      "🐧 Linux Tux Plushie",
+      "🪀 Yo-Yo of Infinite Sleep",
+      "🔋 Double-A Battery Pair",
+      "🪐 Sailor Moon Locket",
+      "🪞 Distracted Boyfriend Polarized Film",
+      "🦆 Untitled Goose Bell",
+      "🦝 Raccoon in a Tiny Hoodie",
+      "🐕 Corgi Fluffy Butt",
+      "⚔️ Wooden Training Sword",
+      "🥪 Lembas Elven Waybread",
+      "🧲 Vintage Neon Clock",
+      "🐢 Ninja Turtle Pizza Box",
+      "🪀 Golden Snitch Wing",
+      "🍵 Cast Iron Tetsubin Teapot"
+    ],
+    "rare": [
+      "🚪 The Vim Exit Parchment",
+      "⚔️ Ghost Merge Conflict",
+      "💧 Linter's Pure Tear",
+      "🔌 Unplugged Staging Server",
+      "🐱 Keyboard Cat's Synth",
+      "🌈 Nyan Cat Pop-Tart Trail",
+      "🐢 Blue Spiny Shell",
+      "🧪 Estus Flask of Firelink",
+      "🗡️ Buster Sword Blade Fragment",
+      "🔴 Pokéball with Master Capture Seal",
+      "🏹 Arrow to the Knee",
+      "🪨 Obsidian Cleavage Shard",
+      "💎 Flawless Diamond Shard",
+      "☀️ Solar Corona Flare",
+      "📜 Damascus Steel Pattern",
+      "🌈 Bismuth Stepped Crystal",
+      "🩸 Vampiric Blood Vial",
+      "🔮 Cursed Rune Stone",
+      "⚡ Circuit Trace Ribbon",
+      "🪞 Quicksilver Droplet",
+      "🌌 Aurora Borealis Ribbon",
+      "🔥 Smoldering Ember Core",
+      "📺 Glitch CRT Scanline",
+      "🌊 Abyssal Trench Core",
+      "📡 56k Modem Handshake Crystal",
+      "🧠 Turing Machine Paper Tape",
+      "🪟 Netscape Navigator Gold Disc",
+      "🕹️ Arcade Vector Monitor",
+      "🧮 Quake Fast Inverse Square Root",
+      "🐉 Dragon Radar Sensor",
+      "👒 Straw Hat Jolly Roger Pin",
+      "📓 Notebook with Black Leather Cover",
+      "🔦 Sonic Screwdriver",
+      "💍 Precious Golden Ring",
+      "🛸 Millennium Hyperdrive Coil",
+      "💡 Green Kyber Crystal",
+      "🤖 T-800 Endoskeleton Finger",
+      "🐕 Shiba Inu 'Much Wow' Collar",
+      "🦦 Hand-Holding Sea Otter Pair",
+      "🦥 Zen Sloth Branch",
+      "🪙 D20 Rolling a Natural 20",
+      "🪓 Cherry-Pick Tongs",
+      "🧬 Brainfuck Compiler Tape",
+      "🪤 Deadlock Mutex Pair",
+      "🧮 Fibonacci Golden Ratio Shell",
+      "🧙 Staff of the Grey Pilgrim",
+      "🐈‍⬛ Jiji the Black Cat's Radio",
+      "🍕 Teenage Mutant Ooze Canister",
+      "🚀 Kerbal Staging Separator",
+      "🪶 Totoro's Acorn Pouch"
+    ],
+    "epic": [
+      "🧯 Production Fire Blanket",
+      "🪐 The 500-Mile Email Relay",
+      "💣 Uncapped While(True)",
+      "🧙‍♂️ Wizard's Tab-Indented Makefile",
+      "⚡ Flux Capacitor 1.21 Gigawatts",
+      "🗝️ TARDIS Police Box Key",
+      "🔺 Golden Triforce of Wisdom",
+      "🛡️ Hylian Shield with Crimson Crest",
+      "🤖 EVA-01 Berserk Battery Pack",
+      "🌋 Magma Crucible",
+      "⚡ Cyber Neon Conduit",
+      "☀️ Solar Flare Corona",
+      "🧪 Toxic Biohazard Vial",
+      "🌴 Vaporwave Sunset Hologram",
+      "🌌 Orion Nebula Stardust",
+      "🌊 Abyssal Leviathan Scale",
+      "✨ Quantum Phase Shifter",
+      "🪨 Encased Amber Relic",
+      "⚡ Supercharged Leyden Jar",
+      "🕹️ Unlocked Konami Code Cartridge",
+      "📜 Root Certificate Authority Key",
+      "🧪 Liquid Nitrogen Thermos",
+      "🧲 Room-Temperature Superconductor",
+      "🪞 Maxwell's Demon Shutter",
+      "🧩 The Halting Problem Paradox",
+      "🪓 The Master Git Rebase Mallet",
+      "📡 Deep Space Network Parabolic Dish",
+      "🧠 Neuromorphic Synapse Chip",
+      "🔋 Zero-Point Vacuum Energy Cell",
+      "📜 RFC 1149 Carrier Pigeon Feather",
+      "🌪️ Ergosphere Vortex Turbine",
+      "💾 Core Dump of Alexandria",
+      "🐈 Schrödinger's Sealed Box",
+      "🔮 Infinity Gauntlet Finger Snap",
+      "🐕 Shiba Inu Moon Rocket",
+      "🦾 Johnny's Silver Cyberarm",
+      "🪞 Mirror of Erised Shard",
+      "💣 GoldenEye 007 Remote Mine"
+    ],
+    "legendary": [
+      "🌌 Master Commit Zero",
+      "🌀 Singularity Tarball",
+      "⚡ Linus's First Keypress",
+      "🪞 Turing's Universal Tape",
+      "🪐 Event Horizon Singularity",
+      "✨ Holographic Universe Plate",
+      "💥 Supernova Remnant Seed",
+      "🛡️ Mithril True-Silver Ingot",
+      "🌑 Dark Matter Monolith",
+      "✨ Kintsugi Golden Seam",
+      "😇 Halo of the Blessed Engine",
+      "⚛️ Quantum Bit Superposition",
+      "📜 The Origin Block Hash",
+      "🔮 Ada Lovelace's Analytical Engine Gear",
+      "🌌 Cosmic Ray Bit-Flipper",
+      "⌛ Chrono-Trigger Timestamp Zero",
+      "🧬 Primordial Assembly Opcode",
+      "🌟 The First Webpage Hyperlink",
+      "🗝️ Sudo Master Skeleton Key",
+      "🌌 The Grand Unified Kernel",
+      "🐾 The Omnipresent Void Cat",
+      "🐉 Shenron's Wish Orb",
+      "⚔️ Excalibur Embedded in Bedrock",
+      "⭐ The Invincibility Star",
+      "🧙‍♂️ The One Ring to Rule the Commits",
+      "🏰 Castle in the Sky Aetherium Crystal",
+      "🌌 Carl Sagan's Pale Blue Dot"
+    ]
+  },
+  "pendingActions": []
+}

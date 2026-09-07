@@ -6,9 +6,9 @@
 <table align="center" width="640" style="width: 100%; max-width: 640px;">
   <tr>
     <td align="center" width="25%">⛰️<i>CHUNK</i><b>#000</b></td>
-    <td align="center" width="25%">🪨<i>TILE</i><b>#049</b></td>
-    <td align="center" width="25%">🔥<i>STREAK</i><b>#004</b></td>
-    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#049</b></td>
+    <td align="center" width="25%">🪨<i>TILE</i><b>#010</b></td>
+    <td align="center" width="25%">🔥<i>STREAK</i><b>#005</b></td>
+    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#010</b></td>
   </tr>
   <tr>
     <td colspan="4" align="center">
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td colspan="4" align="center">
-      COLLECTED (003/003): <span title="Test Collectible #2 (Common) — Let's see if everything *extra* works.">💎</span> <span title="Test Collectible #1 (Common) — Let's see if everything works.">📦</span> <span title="Test Collectible #3 (Uncommon) — Ya da ya da.">🏆</span>
+      COLLECTED (003/250): <span title="🔵 Companion Cube Keyring (Uncommon)">🔵</span> <span title="🎲 D20 Rolling a Natural 1 (Common)">🎲</span> <span title="🎮 Memory Card 8MB (Uncommon)">🎮</span>
     </td>
   </tr>
 </table>

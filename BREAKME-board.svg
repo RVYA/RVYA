@@ -6,8 +6,65 @@
 	<g id="tile-base">
 		<path d="M2 0a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2Z"/>
 	</g>
+	<g id="tile-biscuit">
+		<path d="M1 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0 1-1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0-1-1"/>
+	</g>
+	<g id="tile-blob">
+		<path d="M6.3 0A6 6 0 0 0 0 6.2 6 6 0 0 0 1.3 10 6 6 0 0 0 0 13.8 6 6 0 0 0 6.2 20h7.6a6 6 0 0 0 6.2-6.2 6 6 0 0 0-1.3-3.8A6 6 0 0 0 20 6.2 6 6 0 0 0 13.8 0z"/>
+	</g>
+	<g id="tile-bread">
+		<path d="M6.2 0A6.3 6.3 0 0 0 0 6.2V20h20V6.3A6.3 6.3 0 0 0 13.8 0 6 6 0 0 0 10 1.3 6 6 0 0 0 6.2 0"/>
+	</g>
+	<g id="tile-butterfly">
+		<path d="M5 0a5 5 0 1 0 0 10 5 5 0 1 0 0 10c2.761 0 5-3.76 5-6.521 0 2.761 2.239 6.52 5 6.52a5 5 0 0 0 0-10A5 5 0 0 0 15 0c-2.761 0-5 3.562-5 6.323C10 3.562 7.762 0 5 0"/>
+	</g>
+	<g id="tile-chipped">
+		<path d="M0 14v6h12v-4h4v-4h4V0H8v4H4v4H0Z"/>
+	</g>
+	<g id="tile-donut">
+		<path d="M10 0A10 10 0 0 0 0 10a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 10 0m0 6a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4"/>
+	</g>
+	<g id="tile-floral">
+		<path d="M6.2 0A6.3 6.3 0 0 0 0 6.2 6 6 0 0 0 1.3 10 6 6 0 0 0 0 13.8 6.3 6.3 0 0 0 6.2 20a6 6 0 0 0 3.8-1.3 6 6 0 0 0 3.8 1.3 6.3 6.3 0 0 0 6.2-6.2 6 6 0 0 0-1.3-3.8A6 6 0 0 0 20 6.2 6.3 6.3 0 0 0 13.8 0 6 6 0 0 0 10 1.3 6 6 0 0 0 6.2 0"/>
+	</g>
+	<g id="tile-gem">
+		<path d="m10 0 10 10-10 10L0 10z"/>
+	</g>
+	<g id="tile-half">
+		<path d="M5 5h10v10H5z"/>
+	</g>
 	<g id="tile-hidden">
 		<circle cx="10" cy="10" r="4"/>
+	</g>
+	<g id="tile-jagged">
+		<path d="M0 0v1l1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1v1h1l1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1 1-1 1 1h1v-1l-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1V0h-1l-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1Z"/>
+	</g>
+	<g id="tile-mountain">
+		<path d="M10 1.24a1 1 0 0 0-.9.58L0 20h20L10.91 1.82l.01.03-.04-.1a1 1 0 0 0-.88-.51"/>
+	</g>
+	<g id="tile-sapphire">
+		<path d="M17.99 10c0 5.52-7.99 10-7.99 10s-7.99-4.48-7.99-10S10 0 10 0s7.99 4.48 7.99 10"/>
+	</g>
+	<g id="tile-shield">
+		<path d="M0 0v10a10 10 0 0 0 10 10 10 10 0 0 0 10-10V0H10Z"/>
+	</g>
+	<g id="tile-spark">
+		<path d="M10 20c-.792 0-1.915-6.965-2.475-7.525S0 10.792 0 10s6.965-1.915 7.525-2.475S9.208 0 10 0s1.915 6.965 2.475 7.525S20 9.208 20 10s-6.965 1.915-7.525 2.475S10.792 20 10 20"/>
+	</g>
+	<g id="tile-sun">
+		<path d="M18.66 15c-.4.7-1.8.72-2.37 1.3-.57.57-.59 1.96-1.29 2.36s-1.91-.27-2.7-.06c-.78.2-1.5 1.4-2.3 1.4s-1.52-1.2-2.3-1.4c-.79-.21-2 .46-2.7.06s-.72-1.8-1.3-2.37c-.57-.57-1.96-.59-2.36-1.29s.27-1.91.06-2.7C1.2 11.52 0 10.8 0 10s1.2-1.52 1.4-2.3c.21-.79-.46-2-.06-2.7s1.8-.72 2.37-1.3c.57-.57.59-1.96 1.29-2.36s1.91.27 2.7.06C8.48 1.2 9.2 0 10 0s1.52 1.2 2.3 1.4c.79.21 2-.46 2.7-.06s.72 1.8 1.3 2.37c.57.57 1.96.59 2.36 1.29s-.27 1.91-.06 2.7c.2.78 1.4 1.5 1.4 2.3s-1.2 1.52-1.4 2.3c-.21.79.46 2 .06 2.7"/>
+	</g>
+	<g id="tile-tree">
+		<path d="M10 0a5 5 0 0 0-5 5 5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 3-1v6h4v-6a5 5 0 0 0 3 1 5 5 0 0 0 5-5 5 5 0 0 0-5-5 5 5 0 0 0-5-5"/>
+	</g>
+	<g id="tile-tulip">
+		<path d="M0 0v10a10 10 0 0 0 10 10 10 10 0 0 0 10-10V0a10 10 0 0 0-10 10A10 10 0 0 0 0 0"/>
+	</g>
+	<g id="tile-umbrella">
+		<path d="M10 0A10 10 0 0 0 .05 9H8v11h4V9h7.95A10 10 0 0 0 10 0"/>
+	</g>
+	<g id="tile-water">
+		<path d="M20 11h-1l-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1-1-1-1 1H0v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2z"/>
 	</g>
 	<radialGradient id="gradient-dirt" cx="50%" cy="50%" r="50%">
 	<stop offset="30%" stop-color="#5e3023" />
@@ -18,6 +75,399 @@
 	<stop offset="50%" stop-color="#ffdd00" />
 	<stop offset="95%" stop-color="#020024" />
 </linearGradient>
+<linearGradient id="gradient-wood" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="30%" stop-color="#3b2a0b" />
+	<stop offset="45%" stop-color="#3d2c1e" />
+	<stop offset="55%" stop-color="#4a3120" />
+	<stop offset="70%" stop-color="#472d01" />
+</linearGradient>
+<linearGradient id="gradient-candy" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="30%" stop-color="#7d1313" />
+	<stop offset="45%" stop-color="#bf7777" />
+	<stop offset="55%" stop-color="#c4705a" />
+	<stop offset="70%" stop-color="#752828" />
+</linearGradient>
+<linearGradient id="gradient-zebra" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#000000" />
+	<stop offset="10%" stop-color="#000000" />
+	<stop offset="10%" stop-color="#ffffff" />
+	<stop offset="20%" stop-color="#ffffff" />
+	<stop offset="20%" stop-color="#000000" />
+	<stop offset="30%" stop-color="#000000" />
+	<stop offset="30%" stop-color="#ffffff" />
+	<stop offset="40%" stop-color="#ffffff" />
+	<stop offset="40%" stop-color="#000000" />
+	<stop offset="50%" stop-color="#000000" />
+	<stop offset="50%" stop-color="#ffffff" />
+	<stop offset="60%" stop-color="#ffffff" />
+	<stop offset="60%" stop-color="#000000" />
+	<stop offset="70%" stop-color="#000000" />
+	<stop offset="70%" stop-color="#ffffff" />
+	<stop offset="80%" stop-color="#ffffff" />
+	<stop offset="80%" stop-color="#000000" />
+	<stop offset="90%" stop-color="#000000" />
+	<stop offset="90%" stop-color="#ffffff" />
+	<stop offset="100%" stop-color="#ffffff" />
+</linearGradient>
+<linearGradient id="gradient-metal" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="30%" stop-color="#040414" />
+	<stop offset="45%" stop-color="#ffffff" />
+	<stop offset="55%" stop-color="#ffffff" />
+	<stop offset="70%" stop-color="#040414" />
+</linearGradient>
+<linearGradient id="gradient-sunburn" x1="0%" y1="0%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#2a001b" />
+	<stop offset="16.667%" stop-color="#78130c" />
+	<stop offset="33.333%" stop-color="#ce480e" />
+	<stop offset="50%" stop-color="#ff8d22" />
+	<stop offset="66.667%" stop-color="#ffd543" />
+	<stop offset="83.333%" stop-color="#ffff69" />
+	<stop offset="100%" stop-color="#ffff8d" />
+</linearGradient>
+<radialGradient id="gradient-radiated" cx="50%" cy="50%" r="50%">
+	<stop offset="30%" stop-color="#7fbd60" />
+	<stop offset="90%" stop-color="#d5e657" />
+</radialGradient>
+<radialGradient id="gradient-blackhole" cx="50%" cy="50%" r="50%">
+	<stop offset="30%" stop-color="#000000" />
+	<stop offset="43%" stop-color="#c2b18d" />
+	<stop offset="52%" stop-color="#fcea81" />
+	<stop offset="62%" stop-color="#000000" />
+</radialGradient>
+<radialGradient id="gradient-moss" cx="40%" cy="40%" r="60%">
+	<stop offset="20%" stop-color="#4d7c0f" />
+	<stop offset="75%" stop-color="#1e3a1e" />
+	<stop offset="100%" stop-color="#0f2410" />
+</radialGradient>
+<linearGradient id="gradient-sandstone" x1="0%" y1="0%" x2="0%" y2="100%">
+	<stop offset="0%" stop-color="#d97706" />
+	<stop offset="25%" stop-color="#fef3c7" />
+	<stop offset="50%" stop-color="#b45309" />
+	<stop offset="75%" stop-color="#fef3c7" />
+	<stop offset="100%" stop-color="#92400e" />
+</linearGradient>
+<linearGradient id="gradient-copper" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#b45309" />
+	<stop offset="35%" stop-color="#d97706" />
+	<stop offset="65%" stop-color="#0d9488" />
+	<stop offset="100%" stop-color="#042f2e" />
+</linearGradient>
+<linearGradient id="gradient-amethyst" x1="0%" y1="50%" x2="100%" y2="0%">
+	<stop offset="15%" stop-color="#1e0533" />
+	<stop offset="40%" stop-color="#581c87" />
+	<stop offset="50%" stop-color="#c084fc" />
+	<stop offset="53%" stop-color="#ffffff" />
+	<stop offset="65%" stop-color="#9333ea" />
+	<stop offset="90%" stop-color="#1e0533" />
+</linearGradient>
+<radialGradient id="gradient-glacier" cx="30%" cy="30%" r="70%">
+	<stop offset="10%" stop-color="#ecfeff" />
+	<stop offset="35%" stop-color="#67e8f9" />
+	<stop offset="70%" stop-color="#0891b2" />
+	<stop offset="100%" stop-color="#083344" />
+</radialGradient>
+<linearGradient id="gradient-obsidian" x1="0%" y1="0%" x2="100%" y2="60%">
+	<stop offset="30%" stop-color="#09090b" />
+	<stop offset="48%" stop-color="#27272a" />
+	<stop offset="52%" stop-color="#e4e4e7" />
+	<stop offset="60%" stop-color="#18181b" />
+	<stop offset="90%" stop-color="#030712" />
+</linearGradient>
+<linearGradient id="gradient-magma" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#450a0a" />
+	<stop offset="25%" stop-color="#b91c1c" />
+	<stop offset="45%" stop-color="#f97316" />
+	<stop offset="52%" stop-color="#fef08a" />
+	<stop offset="65%" stop-color="#ea580c" />
+	<stop offset="95%" stop-color="#1c1917" />
+</linearGradient>
+<linearGradient id="gradient-cyberneon" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#030712" />
+	<stop offset="35%" stop-color="#ec4899" />
+	<stop offset="55%" stop-color="#8b5cf6" />
+	<stop offset="85%" stop-color="#06b6d4" />
+	<stop offset="100%" stop-color="#020617" />
+</linearGradient>
+<radialGradient id="gradient-plasma" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#fde047" />
+	<stop offset="35%" stop-color="#f43f5e" />
+	<stop offset="65%" stop-color="#8b5cf6" />
+	<stop offset="95%" stop-color="#1e1b4b" />
+</radialGradient>
+<linearGradient id="gradient-holographic" x1="0%" y1="20%" x2="100%" y2="80%">
+	<stop offset="0%" stop-color="#f472b6" />
+	<stop offset="20%" stop-color="#c084fc" />
+	<stop offset="40%" stop-color="#60a5fa" />
+	<stop offset="60%" stop-color="#34d399" />
+	<stop offset="80%" stop-color="#facc15" />
+	<stop offset="100%" stop-color="#f87171" />
+</linearGradient>
+<radialGradient id="gradient-supernova" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="15%" stop-color="#fef08a" />
+	<stop offset="35%" stop-color="#fb923c" />
+	<stop offset="60%" stop-color="#db2777" />
+	<stop offset="85%" stop-color="#312e81" />
+	<stop offset="100%" stop-color="#030712" />
+</radialGradient>
+<linearGradient id="gradient-blueprint" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#075985" />
+	<stop offset="45%" stop-color="#0284c7" />
+	<stop offset="52%" stop-color="#38bdf8" />
+	<stop offset="60%" stop-color="#0369a1" />
+	<stop offset="100%" stop-color="#082f49" />
+</linearGradient>
+<linearGradient id="gradient-coral" x1="0%" y1="0%" x2="100%" y2="60%">
+	<stop offset="0%" stop-color="#f43f5e" />
+	<stop offset="45%" stop-color="#fb7185" />
+	<stop offset="65%" stop-color="#fed7aa" />
+	<stop offset="100%" stop-color="#38bdf8" />
+</linearGradient>
+<radialGradient id="gradient-terminal" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#86efac" />
+	<stop offset="40%" stop-color="#22c55e" />
+	<stop offset="75%" stop-color="#15803d" />
+	<stop offset="100%" stop-color="#052e16" />
+</radialGradient>
+<radialGradient id="gradient-amber" cx="35%" cy="35%" r="65%">
+	<stop offset="0%" stop-color="#fde047" />
+	<stop offset="45%" stop-color="#f59e0b" />
+	<stop offset="75%" stop-color="#b45309" />
+	<stop offset="100%" stop-color="#451a03" />
+</radialGradient>
+<linearGradient id="gradient-rosegold" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#881337" />
+	<stop offset="35%" stop-color="#f43f5e" />
+	<stop offset="52%" stop-color="#fef08a" />
+	<stop offset="68%" stop-color="#fb7185" />
+	<stop offset="100%" stop-color="#4c0519" />
+</linearGradient>
+<linearGradient id="gradient-jade" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#064e3b" />
+	<stop offset="40%" stop-color="#047857" />
+	<stop offset="50%" stop-color="#34d399" />
+	<stop offset="65%" stop-color="#059669" />
+	<stop offset="100%" stop-color="#022c22" />
+</linearGradient>
+<radialGradient id="gradient-abyssal" cx="40%" cy="40%" r="60%">
+	<stop offset="0%" stop-color="#2dd4bf" />
+	<stop offset="35%" stop-color="#0e7490" />
+	<stop offset="70%" stop-color="#032b44" />
+	<stop offset="100%" stop-color="#020617" />
+</radialGradient>
+<linearGradient id="gradient-circuit" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="25%" stop-color="#064e3b" />
+	<stop offset="28%" stop-color="#ca8a04" />
+	<stop offset="32%" stop-color="#ca8a04" />
+	<stop offset="35%" stop-color="#064e3b" />
+	<stop offset="65%" stop-color="#064e3b" />
+	<stop offset="68%" stop-color="#ca8a04" />
+	<stop offset="72%" stop-color="#ca8a04" />
+	<stop offset="75%" stop-color="#064e3b" />
+</linearGradient>
+<radialGradient id="gradient-quicksilver" cx="30%" cy="30%" r="70%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="35%" stop-color="#cbd5e1" />
+	<stop offset="70%" stop-color="#475569" />
+	<stop offset="100%" stop-color="#0f172a" />
+</radialGradient>
+<linearGradient id="gradient-aurora" x1="0%" y1="0%" x2="100%" y2="60%">
+	<stop offset="0%" stop-color="#022c22" />
+	<stop offset="30%" stop-color="#10b981" />
+	<stop offset="55%" stop-color="#06b6d4" />
+	<stop offset="80%" stop-color="#8b5cf6" />
+	<stop offset="100%" stop-color="#09090b" />
+</linearGradient>
+<radialGradient id="gradient-ember" cx="45%" cy="45%" r="55%">
+	<stop offset="0%" stop-color="#fff176" />
+	<stop offset="35%" stop-color="#ff6d00" />
+	<stop offset="65%" stop-color="#b71c1c" />
+	<stop offset="100%" stop-color="#1b0000" />
+</radialGradient>
+<linearGradient id="gradient-damascus" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="15%" stop-color="#18181b" />
+	<stop offset="20%" stop-color="#52525b" />
+	<stop offset="25%" stop-color="#18181b" />
+	<stop offset="40%" stop-color="#71717a" />
+	<stop offset="45%" stop-color="#18181b" />
+	<stop offset="60%" stop-color="#a1a1aa" />
+	<stop offset="65%" stop-color="#18181b" />
+	<stop offset="80%" stop-color="#52525b" />
+	<stop offset="85%" stop-color="#18181b" />
+</linearGradient>
+<linearGradient id="gradient-glitch" x1="0%" y1="0%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#ff0055" />
+	<stop offset="20%" stop-color="#ff0055" />
+	<stop offset="20%" stop-color="#00ffff" />
+	<stop offset="50%" stop-color="#00ffff" />
+	<stop offset="50%" stop-color="#ffff00" />
+	<stop offset="70%" stop-color="#ffff00" />
+	<stop offset="70%" stop-color="#000000" />
+	<stop offset="100%" stop-color="#000000" />
+</linearGradient>
+<linearGradient id="gradient-bismuth" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#3b82f6" />
+	<stop offset="20%" stop-color="#8b5cf6" />
+	<stop offset="40%" stop-color="#ec4899" />
+	<stop offset="60%" stop-color="#eab308" />
+	<stop offset="80%" stop-color="#10b981" />
+	<stop offset="100%" stop-color="#06b6d4" />
+</linearGradient>
+<radialGradient id="gradient-solarflare" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="20%" stop-color="#fef08a" />
+	<stop offset="50%" stop-color="#f97316" />
+	<stop offset="80%" stop-color="#b91c1c" />
+	<stop offset="100%" stop-color="#450a0a" />
+</radialGradient>
+<linearGradient id="gradient-toxic" x1="0%" y1="50%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#14532d" />
+	<stop offset="30%" stop-color="#65a30d" />
+	<stop offset="50%" stop-color="#bef264" />
+	<stop offset="65%" stop-color="#facc15" />
+	<stop offset="100%" stop-color="#3f6212" />
+</linearGradient>
+<linearGradient id="gradient-vaporwave" x1="0%" y1="0%" x2="40%" y2="100%">
+	<stop offset="0%" stop-color="#fda4af" />
+	<stop offset="30%" stop-color="#f472b6" />
+	<stop offset="60%" stop-color="#818cf8" />
+	<stop offset="100%" stop-color="#2dd4bf" />
+</linearGradient>
+<radialGradient id="gradient-nebula" cx="35%" cy="35%" r="65%">
+	<stop offset="0%" stop-color="#f472b6" />
+	<stop offset="35%" stop-color="#9333ea" />
+	<stop offset="70%" stop-color="#3b82f6" />
+	<stop offset="100%" stop-color="#030712" />
+</radialGradient>
+<linearGradient id="gradient-mithril" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#1e1b4b" />
+	<stop offset="35%" stop-color="#60a5fa" />
+	<stop offset="50%" stop-color="#ffffff" />
+	<stop offset="65%" stop-color="#9333fd" />
+	<stop offset="100%" stop-color="#1e293b" />
+</linearGradient>
+<radialGradient id="gradient-darkmatter" cx="50%" cy="50%" r="50%">
+	<stop offset="50%" stop-color="#020205" />
+	<stop offset="75%" stop-color="#1e1035" />
+	<stop offset="92%" stop-color="#a855f7" />
+	<stop offset="100%" stop-color="#000000" />
+</radialGradient>
+<linearGradient id="gradient-terracotta" x1="0%" y1="100%" x2="100%" y2="0%">
+	<stop offset="0%" stop-color="#7c2d12" />
+	<stop offset="35%" stop-color="#c2410c" />
+	<stop offset="70%" stop-color="#ea580c" />
+	<stop offset="100%" stop-color="#fed7aa" />
+</linearGradient>
+<linearGradient id="gradient-sakura" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#fff1f2" />
+	<stop offset="35%" stop-color="#fbcfe8" />
+	<stop offset="70%" stop-color="#f472b6" />
+	<stop offset="100%" stop-color="#db2777" />
+</linearGradient>
+<linearGradient id="gradient-camo" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#283618" />
+	<stop offset="25%" stop-color="#606c38" />
+	<stop offset="50%" stop-color="#dda15e" />
+	<stop offset="75%" stop-color="#3f4f24" />
+	<stop offset="100%" stop-color="#283618" />
+</linearGradient>
+<radialGradient id="gradient-bandana" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="25%" stop-color="#b91c1c" />
+	<stop offset="55%" stop-color="#ffffff" />
+	<stop offset="65%" stop-color="#1e1b4b" />
+	<stop offset="100%" stop-color="#0f172a" />
+</radialGradient>
+<radialGradient id="gradient-seigaiha" cx="50%" cy="0%" r="100%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="20%" stop-color="#0284c7" />
+	<stop offset="40%" stop-color="#ffffff" />
+	<stop offset="60%" stop-color="#0369a1" />
+	<stop offset="80%" stop-color="#ffffff" />
+	<stop offset="100%" stop-color="#0c4a6e" />
+</radialGradient>
+<radialGradient id="gradient-shibori" cx="50%" cy="50%" r="50%">
+	<stop offset="0%" stop-color="#f1faee" />
+	<stop offset="30%" stop-color="#a8dadc" />
+	<stop offset="60%" stop-color="#457b9d" />
+	<stop offset="90%" stop-color="#1d3557" />
+	<stop offset="100%" stop-color="#03071e" />
+</radialGradient>
+<linearGradient id="gradient-monstera" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#022c22" />
+	<stop offset="30%" stop-color="#064e3b" />
+	<stop offset="55%" stop-color="#047857" />
+	<stop offset="80%" stop-color="#10b981" />
+	<stop offset="100%" stop-color="#6ee7b7" />
+</linearGradient>
+<linearGradient id="gradient-marble" x1="0%" y1="0%" x2="100%" y2="60%">
+	<stop offset="0%" stop-color="#ffffff" />
+	<stop offset="35%" stop-color="#f1f5f9" />
+	<stop offset="50%" stop-color="#94a3b8" />
+	<stop offset="53%" stop-color="#e2e8f0" />
+	<stop offset="75%" stop-color="#cbd5e1" />
+	<stop offset="100%" stop-color="#ffffff" />
+</linearGradient>
+<radialGradient id="gradient-tortoise" cx="40%" cy="40%" r="60%">
+	<stop offset="0%" stop-color="#f59e0b" />
+	<stop offset="35%" stop-color="#d97706" />
+	<stop offset="65%" stop-color="#78350f" />
+	<stop offset="100%" stop-color="#1c0a00" />
+</radialGradient>
+<linearGradient id="gradient-kintsugi" x1="0%" y1="0%" x2="100%" y2="100%">
+	<stop offset="0%" stop-color="#18181b" />
+	<stop offset="38%" stop-color="#27272a" />
+	<stop offset="48%" stop-color="#eab308" />
+	<stop offset="52%" stop-color="#fef08a" />
+	<stop offset="56%" stop-color="#ca8a04" />
+	<stop offset="65%" stop-color="#18181b" />
+	<stop offset="100%" stop-color="#09090b" />
+</linearGradient>
+<pattern id="pattern-polkadot" width="10" height="10" patternUnits="userSpaceOnUse">
+	<rect width="10" height="10" fill="#f8fafc" />
+	<circle cx="5" cy="5" r="2.5" fill="#ef4444" />
+</pattern>
+<pattern id="pattern-honeycomb" width="16" height="28" patternUnits="userSpaceOnUse">
+	<rect width="16" height="28" fill="#d97706" />
+	<path d="M8 0 l8 4.6 v9.2 l-8 4.6 l-8 -4.6 v-9.2 z" fill="#f59e0b" stroke="#78350f" stroke-width="0.8" />
+	<path d="M0 18.4 l8 4.6 v9.2 l-8 4.6 l-8 -4.6 v-9.2 z" fill="#f59e0b" stroke="#78350f" stroke-width="0.8" />
+	<path d="M16 18.4 l8 4.6 v9.2 l-8 4.6 l-8 -4.6 v-9.2 z" fill="#f59e0b" stroke="#78350f" stroke-width="0.8" />
+</pattern>
+<pattern id="pattern-tartan" width="20" height="20" patternUnits="userSpaceOnUse">
+	<rect width="20" height="20" fill="#15803d" />
+	<rect x="0" y="4" width="20" height="4" fill="#1d4ed8" fill-opacity="0.7" />
+	<rect x="4" y="0" width="4" height="20" fill="#1d4ed8" fill-opacity="0.7" />
+	<rect x="0" y="14" width="20" height="2" fill="#dc2626" />
+	<rect x="14" y="0" width="2" height="20" fill="#dc2626" />
+	<rect x="0" y="10" width="20" height="1" fill="#facc15" />
+	<rect x="10" y="0" width="1" height="20" fill="#facc15" />
+</pattern>
+<pattern id="pattern-houndstooth" width="16" height="16" patternUnits="userSpaceOnUse">
+	<rect width="16" height="16" fill="#18181b" />
+	<polygon points="0,0 8,0 0,8" fill="#ffffff" />
+	<polygon points="8,8 16,8 8,16" fill="#ffffff" />
+	<rect x="8" y="0" width="4" height="4" fill="#ffffff" />
+	<polygon points="12,0 16,4 12,4" fill="#ffffff" />
+	<polygon points="8,4 8,8 4,8" fill="#ffffff" />
+	<rect x="0" y="8" width="4" height="4" fill="#ffffff" />
+	<polygon points="4,8 8,12 4,12" fill="#ffffff" />
+	<polygon points="0,12 0,16 4,16" fill="#ffffff" />
+</pattern>
+<pattern id="pattern-leopard" width="20" height="20" patternUnits="userSpaceOnUse">
+	<rect width="20" height="20" fill="#d97706" />
+	<circle cx="6" cy="6" r="3.5" fill="#78350f" />
+	<circle cx="6" cy="6" r="2" fill="#f59e0b" />
+	<circle cx="16" cy="15" r="4" fill="#78350f" />
+	<circle cx="16" cy="15" r="2.2" fill="#f59e0b" />
+	<circle cx="15" cy="5" r="1.5" fill="#451a03" />
+	<circle cx="5" cy="16" r="1.5" fill="#451a03" />
+</pattern>
+<pattern id="pattern-zellige" width="20" height="20" patternUnits="userSpaceOnUse">
+	<rect width="20" height="20" fill="#1e3a8a" />
+	<polygon points="10,0 20,10 10,20 0,10" fill="#0284c7" />
+	<polygon points="10,4 16,10 10,16 4,10" fill="#f8fafc" />
+	<rect x="8" y="8" width="4" height="4" fill="#ea580c" />
+</pattern>
 </defs>
 <style>
 :root {
@@ -26,13 +476,235 @@
 	--accent: hsl(267, 28%, 18%);
 }
 .variant-dirt {
-	/*fill: #5e3023;*/
 	fill: url("#gradient-dirt");
 }
 
+.variant-wood {
+	fill: url("#gradient-wood");
+}
+
+.variant-candy {
+	fill: url("#gradient-candy");
+}
+
+.variant-zebra {
+	fill: url("#gradient-zebra");
+}
+
 .variant-gold {
-	/*fill: #020024;*/
 	fill: url("#gradient-gold");
+}
+
+.variant-metal {
+	fill: url("#gradient-metal");
+}
+
+.variant-sunburn {
+	fill: url("#gradient-sunburn");
+}
+
+.variant-radiated {
+	fill: url("#gradient-radiated");
+}
+
+.variant-blackhole,
+.variant-black-hole {
+	fill: url("#gradient-blackhole");
+}
+
+.variant-moss {
+	fill: url("#gradient-moss");
+}
+
+.variant-sandstone {
+	fill: url("#gradient-sandstone");
+}
+
+.variant-copper {
+	fill: url("#gradient-copper");
+}
+
+.variant-amethyst {
+	fill: url("#gradient-amethyst");
+}
+
+.variant-glacier {
+	fill: url("#gradient-glacier");
+}
+
+.variant-obsidian {
+	fill: url("#gradient-obsidian");
+}
+
+.variant-magma {
+	fill: url("#gradient-magma");
+}
+
+.variant-cyberneon,
+.variant-cyber-neon,
+.variant-neon {
+	fill: url("#gradient-cyberneon");
+}
+
+.variant-plasma {
+	fill: url("#gradient-plasma");
+}
+
+.variant-holographic {
+	fill: url("#gradient-holographic");
+}
+
+.variant-supernova {
+	fill: url("#gradient-supernova");
+}
+
+.variant-blueprint {
+	fill: url("#gradient-blueprint");
+}
+
+.variant-coral {
+	fill: url("#gradient-coral");
+}
+
+.variant-terminal {
+	fill: url("#gradient-terminal");
+}
+
+.variant-amber {
+	fill: url("#gradient-amber");
+}
+
+.variant-rosegold,
+.variant-rose-gold {
+	fill: url("#gradient-rosegold");
+}
+
+.variant-jade {
+	fill: url("#gradient-jade");
+}
+
+.variant-abyssal {
+	fill: url("#gradient-abyssal");
+}
+
+.variant-circuit {
+	fill: url("#gradient-circuit");
+}
+
+.variant-quicksilver {
+	fill: url("#gradient-quicksilver");
+}
+
+.variant-aurora {
+	fill: url("#gradient-aurora");
+}
+
+.variant-ember {
+	fill: url("#gradient-ember");
+}
+
+.variant-damascus {
+	fill: url("#gradient-damascus");
+}
+
+.variant-glitch {
+	fill: url("#gradient-glitch");
+}
+
+.variant-bismuth {
+	fill: url("#gradient-bismuth");
+}
+
+.variant-solarflare,
+.variant-solar-flare {
+	fill: url("#gradient-solarflare");
+}
+
+.variant-toxic {
+	fill: url("#gradient-toxic");
+}
+
+.variant-vaporwave {
+	fill: url("#gradient-vaporwave");
+}
+
+.variant-nebula {
+	fill: url("#gradient-nebula");
+}
+
+.variant-mithril {
+	fill: url("#gradient-mithril");
+}
+
+.variant-darkmatter,
+.variant-dark-matter {
+	fill: url("#gradient-darkmatter");
+}
+
+.variant-terracotta {
+	fill: url("#gradient-terracotta");
+}
+
+.variant-sakura {
+	fill: url("#gradient-sakura");
+}
+
+.variant-polkadot,
+.variant-polka-dot {
+	fill: url("#pattern-polkadot");
+}
+
+.variant-camo {
+	fill: url("#gradient-camo");
+}
+
+.variant-bandana {
+	fill: url("#gradient-bandana");
+}
+
+.variant-seigaiha {
+	fill: url("#gradient-seigaiha");
+}
+
+.variant-honeycomb,
+.variant-honey-comb {
+	fill: url("#pattern-honeycomb");
+}
+
+.variant-shibori {
+	fill: url("#gradient-shibori");
+}
+
+.variant-monstera {
+	fill: url("#gradient-monstera");
+}
+
+.variant-marble {
+	fill: url("#gradient-marble");
+}
+
+.variant-tortoise {
+	fill: url("#gradient-tortoise");
+}
+
+.variant-tartan {
+	fill: url("#pattern-tartan");
+}
+
+.variant-houndstooth {
+	fill: url("#pattern-houndstooth");
+}
+
+.variant-leopard {
+	fill: url("#pattern-leopard");
+}
+
+.variant-zellige {
+	fill: url("#pattern-zellige");
+}
+
+.variant-kintsugi {
+	fill: url("#gradient-kintsugi");
 }
 
 .variant-broken {
@@ -78,6 +750,116 @@
 	stroke-width: 2;
 }
 
+.effect-armored {
+	stroke: #94a3b8;
+	stroke-width: 3.5;
+	stroke-dasharray: 12 4;
+}
+
+.effect-brittle {
+	stroke: #e2e8f0;
+	stroke-width: 1.2;
+	stroke-dasharray: 2 3;
+}
+
+.effect-chained {
+	stroke: #334155;
+	stroke-width: 2.8;
+	stroke-dasharray: 5 3 2 3;
+}
+
+.effect-barbed {
+	stroke: #cbd5e1;
+	stroke-width: 3;
+	stroke-dasharray: 1 4;
+}
+
+.effect-encased {
+	stroke: #f59e0b;
+	stroke-width: 3;
+	stroke-opacity: 0.85;
+}
+
+.effect-levitating {
+	stroke: #38bdf8;
+	stroke-width: 2;
+	animation: effect-levitate 3s ease-in-out infinite;
+}
+
+.effect-stasis {
+	stroke: #38bdf8;
+	stroke-width: 3;
+	stroke-dasharray: 1 5;
+}
+
+.effect-echo {
+	stroke: #a5b4fc;
+	stroke-width: 2;
+	stroke-opacity: 0.5;
+	stroke-dasharray: 4 2;
+}
+
+.effect-overcharged {
+	stroke: #c084fc;
+	stroke-width: 3;
+	animation: effect-overcharged-pulse 1.5s ease-in-out infinite alternate;
+}
+
+.effect-vampiric {
+	stroke: #881337;
+	stroke-width: 2.5;
+}
+
+.effect-blessed {
+	stroke: #fde047;
+	stroke-width: 2.5;
+}
+
+.effect-volatile {
+	stroke: #f97316;
+	stroke-width: 2.5;
+	stroke-dasharray: 3 2;
+}
+
+.effect-phase {
+	stroke: #818cf8;
+	stroke-width: 2.2;
+	stroke-dasharray: 4 4;
+	animation: effect-phase-flow 2s linear infinite;
+}
+
+.effect-cursed {
+	stroke: #7e22ce;
+	stroke-width: 2.5;
+}
+
+@keyframes effect-levitate {
+	0%,
+	100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-2px);
+	}
+}
+
+@keyframes effect-overcharged-pulse {
+	0% {
+		stroke-width: 2;
+		stroke: #c084fc;
+	}
+	100% {
+		stroke-width: 3.5;
+		stroke: #ffffff;
+	}
+}
+
+@keyframes effect-phase-flow {
+	to {
+		stroke-dashoffset: -16;
+	}
+}
+
 @keyframes player-sway {
 	0%, 100% {
 		transform: rotate(-15deg);
@@ -112,363 +894,377 @@
 		<use href="#char-base" class="player fg" />
 	</g>
 	<g class="grid-cell" transform="translate(46, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-chipped" class="variant-wood" />
+		<use href="#tile-chipped" class="effect-hot" fill="none" />
 	</g>
 	<g class="grid-cell" transform="translate(66, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-chipped" class="variant-moss" />
 	</g>
 	<g class="grid-cell" transform="translate(86, 4) scale(0.8)">
-		<use href="#tile-base" class="variant-dirt" />
+		<use href="#tile-chipped" class="variant-dirt" />
 	</g>
 	<g class="grid-cell" transform="translate(106, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
-		<use href="#tile-base" class="effect-cold" fill="none" />
+		<use href="#tile-blob" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(126, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-chipped" class="variant-dirt" />
 	</g>
 	<g class="grid-cell" transform="translate(146, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-chipped" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(166, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-bread" class="variant-wood" />
 	</g>
 	<g class="grid-cell" transform="translate(186, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-bread" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(206, 4) scale(0.8)">
-		<use href="#tile-base" class="variant-gold" />
+		<use href="#tile-half" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(226, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
+		<use href="#tile-biscuit" class="fg" />
+		<use href="#tile-biscuit" class="effect-negative" fill="none" />
 	</g>
 	<g class="grid-cell" transform="translate(246, 4) scale(0.8)">
-		<use href="#tile-base" class="variant-dirt" />
-		<use href="#tile-base" class="effect-negative" fill="none" />
+		<use href="#tile-bread" class="variant-wood" />
 	</g>
 	<g class="grid-cell" transform="translate(266, 4) scale(0.8)">
-		<use href="#tile-base" class="fg" />
-		<use href="#tile-base" class="effect-negative" fill="none" />
+		<use href="#tile-bread" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(286, 4) scale(0.8)">
-		<use href="#tile-base" class="variant-gold" />
+		<use href="#tile-bread" class="variant-broken" />
 	</g>
 	<g class="grid-cell" transform="translate(306, 4) scale(0.8)">
+		<use href="#tile-bread" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 24) scale(0.8)">
+		<use href="#tile-donut" class="variant-terminal" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 24) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+		<use href="#tile-blob" class="effect-brittle" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 24) scale(0.8)">
+		<use href="#tile-blob" class="variant-terracotta" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 24) scale(0.8)">
+		<use href="#tile-base" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 24) scale(0.8)">
+		<use href="#tile-bread" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 24) scale(0.8)">
+		<use href="#tile-donut" class="variant-blueprint" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 24) scale(0.8)">
+		<use href="#tile-bread" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 24) scale(0.8)">
+		<use href="#tile-bread" class="variant-terracotta" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 24) scale(0.8)">
+		<use href="#tile-donut" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 24) scale(0.8)">
+		<use href="#tile-base" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 24) scale(0.8)">
+		<use href="#tile-donut" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 24) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+		<use href="#tile-chipped" class="effect-blessed" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 24) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 24) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-dirt" />
+		<use href="#tile-biscuit" class="effect-overcharged" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 44) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 44) scale(0.8)">
+		<use href="#tile-bread" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 44) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 44) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 44) scale(0.8)">
+		<use href="#tile-bread" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 44) scale(0.8)">
+		<use href="#tile-bread" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 44) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 44) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-moss" />
+		<use href="#tile-biscuit" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 44) scale(0.8)">
+		<use href="#tile-bread" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 44) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 44) scale(0.8)">
+		<use href="#tile-donut" class="variant-terracotta" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 44) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 44) scale(0.8)">
+		<use href="#tile-blob" class="variant-terracotta" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 44) scale(0.8)">
+		<use href="#tile-half" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 44) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-candy" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 44) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 64) scale(0.8)">
+		<use href="#tile-water" class="variant-moss" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 64) scale(0.8)">
+		<use href="#tile-tree" class="variant-amber" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 64) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 64) scale(0.8)">
+		<use href="#tile-shield" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 64) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 64) scale(0.8)">
+		<use href="#tile-shield" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 64) scale(0.8)">
+		<use href="#tile-water" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 64) scale(0.8)">
+		<use href="#tile-tree" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 64) scale(0.8)">
+		<use href="#tile-tree" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 64) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 64) scale(0.8)">
+		<use href="#tile-base" class="variant-broken" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 64) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+		<use href="#tile-chipped" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 64) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 64) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 64) scale(0.8)">
+		<use href="#tile-tree" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 64) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 84) scale(0.8)">
+		<use href="#tile-tree" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 84) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 84) scale(0.8)">
+		<use href="#tile-base" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 84) scale(0.8)">
+		<use href="#tile-shield" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 84) scale(0.8)">
+		<use href="#tile-donut" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 84) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 84) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 84) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 84) scale(0.8)">
+		<use href="#tile-chipped" class="variant-terracotta" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 84) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 84) scale(0.8)">
+		<use href="#tile-blob" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 84) scale(0.8)">
+		<use href="#tile-shield" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 84) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 84) scale(0.8)">
+		<use href="#tile-tree" class="variant-circuit" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 84) scale(0.8)">
+		<use href="#tile-jagged" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 84) scale(0.8)">
+		<use href="#tile-tulip" class="variant-wood" />
+		<use href="#tile-tulip" class="effect-cold" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 104) scale(0.8)">
+		<use href="#tile-donut" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 104) scale(0.8)">
+		<use href="#tile-jagged" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 104) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 104) scale(0.8)">
+		<use href="#tile-floral" class="variant-dirt" />
+		<use href="#tile-floral" class="effect-stasis" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 104) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 104) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 104) scale(0.8)">
+		<use href="#tile-donut" class="variant-dirt" />
+		<use href="#tile-donut" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 104) scale(0.8)">
+		<use href="#tile-tree" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 104) scale(0.8)">
+		<use href="#tile-tulip" class="fg" />
+		<use href="#tile-tulip" class="effect-overcharged" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 104) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 104) scale(0.8)">
+		<use href="#tile-chipped" class="variant-moss" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 104) scale(0.8)">
+		<use href="#tile-base" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 104) scale(0.8)">
+		<use href="#tile-base" class="variant-wood" />
+		<use href="#tile-base" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 104) scale(0.8)">
+		<use href="#tile-chipped" class="variant-dirt" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 104) scale(0.8)">
+		<use href="#tile-water" class="variant-terracotta" />
+		<use href="#tile-water" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 104) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 124) scale(0.8)">
+		<use href="#tile-chipped" class="fg" />
+		<use href="#tile-chipped" class="effect-overcharged" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 124) scale(0.8)">
+		<use href="#tile-tree" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 124) scale(0.8)">
+		<use href="#tile-spark" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 124) scale(0.8)">
+		<use href="#tile-half" class="variant-moss" />
+	</g>
+	<g class="grid-cell" transform="translate(86, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+		<use href="#tile-biscuit" class="effect-levitating" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(106, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(126, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(146, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-wood" />
+		<use href="#tile-biscuit" class="effect-blessed" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(166, 124) scale(0.8)">
+		<use href="#tile-mountain" class="variant-wood" />
+	</g>
+	<g class="grid-cell" transform="translate(186, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="variant-moss" />
+		<use href="#tile-biscuit" class="effect-overcharged" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(206, 124) scale(0.8)">
+		<use href="#tile-butterfly" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(226, 124) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(246, 124) scale(0.8)">
+		<use href="#tile-tree" class="variant-zebra" />
+		<use href="#tile-tree" class="effect-negative" fill="none" />
+	</g>
+	<g class="grid-cell" transform="translate(266, 124) scale(0.8)">
+		<use href="#tile-blob" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(286, 124) scale(0.8)">
+		<use href="#tile-biscuit" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(306, 124) scale(0.8)">
+		<use href="#tile-chipped" class="variant-circuit" />
+	</g>
+	<g class="grid-cell" transform="translate(6, 144) scale(0.8)">
+		<use href="#tile-half" class="variant-terminal" />
+	</g>
+	<g class="grid-cell" transform="translate(26, 144) scale(0.8)">
+		<use href="#tile-base" class="variant-jade" />
+	</g>
+	<g class="grid-cell" transform="translate(46, 144) scale(0.8)">
+		<use href="#tile-half" class="fg" />
+	</g>
+	<g class="grid-cell" transform="translate(66, 144) scale(0.8)">
 		<use href="#tile-base" class="fg" />
 		<use href="#tile-base" class="effect-negative" fill="none" />
 	</g>
-	<g class="grid-cell" transform="translate(46, 24) scale(0.8)">
-		<use href="#tile-base" class="fg" />
-		<use href="#tile-base" class="effect-shiny" fill="none" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 24) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 44) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 64) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 84) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 104) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(86, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(106, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(126, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(146, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(166, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(186, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(206, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(226, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(246, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(266, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(286, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(306, 124) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(6, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(26, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(46, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
-	<g class="grid-cell" transform="translate(66, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
-	</g>
 	<g class="grid-cell" transform="translate(86, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-base" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(106, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-biscuit" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(126, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-biscuit" class="fg" />
 	</g>
 	<g class="grid-cell" transform="translate(146, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-biscuit" class="variant-moss" />
 	</g>
 	<g class="grid-cell" transform="translate(166, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-chipped" class="variant-candy" />
 	</g>
 	<g class="grid-cell" transform="translate(186, 144) scale(0.8)">
-		<use href="#tile-hidden" class="accent" />
+		<use href="#tile-shield" class="variant-amethyst" />
 	</g>
 	<g class="grid-cell" transform="translate(206, 144) scale(0.8)">
 		<use href="#tile-hidden" class="accent" />
