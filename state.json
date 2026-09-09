@@ -1,5 +1,5 @@
 {
-  "hash": "6e09dc1be0c2121ccdfc4d11bd4b4c17191dae5e27999a5409c030ea99ae3e6e",
+  "hash": "91c7c842b0e162a04fcf5487c645c0813afa55ffe1930d7b5e7d652dff6623a4",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 0,
-      "tileIndex": 37,
-      "totalTilesBroken": 37
+      "tileIndex": 42,
+      "totalTilesBroken": 42
     },
     "activity": {
       "currentStreak": 7,
@@ -276,38 +276,38 @@
         "shape": "Biscuit",
         "variant": "Dirt",
         "effect": "Overcharged",
-        "currentHp": 1.7763568394002505e-15,
+        "currentHp": 0,
         "maxHp": 16
       },
       {
         "index": 38,
         "shape": "Biscuit",
-        "currentHp": 4,
+        "currentHp": 0,
         "maxHp": 4
       },
       {
         "index": 39,
         "shape": "Bread",
-        "currentHp": 6,
+        "currentHp": 0,
         "maxHp": 6
       },
       {
         "index": 40,
         "shape": "Half",
-        "currentHp": 2,
+        "currentHp": 0,
         "maxHp": 2
       },
       {
         "index": 41,
         "shape": "Tulip",
-        "currentHp": 6,
+        "currentHp": 0,
         "maxHp": 6
       },
       {
         "index": 42,
         "shape": "Bread",
         "variant": "Wood",
-        "currentHp": 8,
+        "currentHp": 6.8,
         "maxHp": 8
       },
       {
