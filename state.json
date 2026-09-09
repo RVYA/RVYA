@@ -1,5 +1,5 @@
 {
-  "hash": "275265c5050eebe4e630f5f6eaf5c015913c8473951da14d8757f10169f6e6d7",
+  "hash": "88a014d421c50b6f70f62e8e71093f1dd75d68abc1dafd31d361872f06ddbbe6",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 0,
-      "tileIndex": 32,
-      "totalTilesBroken": 32
+      "tileIndex": 33,
+      "totalTilesBroken": 33
     },
     "activity": {
       "currentStreak": 6,
@@ -242,13 +242,13 @@
       {
         "index": 32,
         "shape": "Donut",
-        "currentHp": 2.5999999999999996,
+        "currentHp": 0,
         "maxHp": 5
       },
       {
         "index": 33,
         "shape": "Base",
-        "currentHp": 4,
+        "currentHp": 0.6000000000000001,
         "maxHp": 4
       },
       {
