@@ -1,5 +1,5 @@
 {
-  "hash": "64e16fce7511023012f3a0da8faead68690ce5487aebd2b9ce1131d3d7747ca4",
+  "hash": "716037e4547e13dd473408924f1179465bbe60a57d18de30f8bbf6f527146c6f",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -613,7 +613,7 @@
         "shape": "Floral",
         "variant": "Dirt",
         "effect": "Stasis",
-        "currentHp": 13.799999999999997,
+        "currentHp": 4.199999999999999,
         "maxHp": 23
       },
       {
