@@ -1,5 +1,5 @@
 {
-  "hash": "87422d2e307c15589fcb5ef0acfedf2a42d9c93e2c71359cd2389b2acd6cd0c2",
+  "hash": "fcac8c801ddef13d70c4e8318a9e0d83c6d193a458ed688bf7dbff616256792d",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 0,
-      "tileIndex": 93,
-      "totalTilesBroken": 93
+      "tileIndex": 94,
+      "totalTilesBroken": 94
     },
     "activity": {
       "currentStreak": 7,
@@ -640,14 +640,14 @@
         "index": 93,
         "shape": "Tree",
         "variant": "Wood",
-        "currentHp": 3.4000000000000017,
+        "currentHp": 0,
         "maxHp": 10
       },
       {
         "index": 94,
         "shape": "Tulip",
         "effect": "Overcharged",
-        "currentHp": 21,
+        "currentHp": 14.799999999999999,
         "maxHp": 21
       },
       {
