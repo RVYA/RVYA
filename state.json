@@ -1,5 +1,5 @@
 {
-  "hash": "3011df8e74b45c93447edbe8094ac786e9c8913538580a909e0f3ac8a4852f9a",
+  "hash": "17d2dde026ed9e1b3fdf583a243826bf8e4beda42390d0956450f8fb8282b12b",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 0,
-      "tileIndex": 102,
-      "totalTilesBroken": 102
+      "tileIndex": 104,
+      "totalTilesBroken": 104
     },
     "activity": {
       "currentStreak": 7,
@@ -702,19 +702,19 @@
         "index": 102,
         "shape": "Chipped",
         "effect": "Overcharged",
-        "currentHp": 1.200000000000002,
+        "currentHp": 0,
         "maxHp": 11
       },
       {
         "index": 103,
         "shape": "Tree",
-        "currentHp": 8,
+        "currentHp": 0,
         "maxHp": 8
       },
       {
         "index": 104,
         "shape": "Spark",
-        "currentHp": 18,
+        "currentHp": 17.6,
         "maxHp": 18
       },
       {
