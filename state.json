@@ -1,5 +1,5 @@
 {
-  "hash": "c49f015feb14cff8630dce0804a0190f9330565f6acdafedf71ca6925937c2b2",
+  "hash": "cb1f8f0769d98d028dcab381a474b74add80765adb75751d73cb9d242a803787",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 0,
-      "tileIndex": 98,
-      "totalTilesBroken": 98
+      "tileIndex": 100,
+      "totalTilesBroken": 100
     },
     "activity": {
       "currentStreak": 7,
@@ -674,14 +674,14 @@
         "shape": "Base",
         "variant": "Wood",
         "effect": "Negative",
-        "currentHp": 2,
+        "currentHp": 0,
         "maxHp": 5
       },
       {
         "index": 99,
         "shape": "Chipped",
         "variant": "Dirt",
-        "currentHp": 4,
+        "currentHp": 0,
         "maxHp": 4
       },
       {
@@ -689,7 +689,7 @@
         "shape": "Water",
         "variant": "Terracotta",
         "effect": "Negative",
-        "currentHp": 9,
+        "currentHp": 5.4,
         "maxHp": 9
       },
       {
