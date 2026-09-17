@@ -1,5 +1,5 @@
 {
-  "hash": "17d2dde026ed9e1b3fdf583a243826bf8e4beda42390d0956450f8fb8282b12b",
+  "hash": "6f266a5565e5e28f139f5f5528c2fe3fe5d3948da5a58aa3c355c738973e7534",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -714,7 +714,7 @@
       {
         "index": 104,
         "shape": "Spark",
-        "currentHp": 17.6,
+        "currentHp": 8.000000000000002,
         "maxHp": 18
       },
       {
