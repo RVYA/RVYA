@@ -894,13 +894,13 @@
 		<use href="#char-base" class="player fg" />
 	</g>
 	<g class="grid-cell" transform="translate(46, 4) scale(0.8)">
-		<use href="#tile-biscuit" class="variant-moss" />
+		<use href="#tile-shield" class="variant-amethyst" />
 	</g>
 	<g class="grid-cell" transform="translate(66, 4) scale(0.8)">
-		<use href="#tile-chipped" class="variant-candy" />
+		<use href="#tile-hidden" class="accent" />
 	</g>
 	<g class="grid-cell" transform="translate(86, 4) scale(0.8)">
-		<use href="#tile-shield" class="variant-amethyst" />
+		<use href="#tile-hidden" class="accent" />
 	</g>
 	<g class="grid-cell" transform="translate(106, 4) scale(0.8)">
 		<use href="#tile-hidden" class="accent" />
