@@ -1,5 +1,5 @@
 {
-  "hash": "66365b707576d9b1a9598c7fa2e1261340036cb4bec986a54ec4986db5232e4b",
+  "hash": "6ddd99ea7c247721d011ff69dc8113cb4df7232a393075549a46e84b6026d527",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -868,7 +868,7 @@
         "index": 127,
         "shape": "Shield",
         "variant": "Amethyst",
-        "currentHp": 15.999999999999998,
+        "currentHp": 6.4,
         "maxHp": 20
       }
     ],
