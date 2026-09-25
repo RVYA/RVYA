@@ -1,5 +1,5 @@
 {
-  "hash": "fc62c08c897baec1c854288bd2df14dfaefddd906c01ac41c6349afdc44d9d96",
+  "hash": "88e37f8a89669f5a4ac3bc74c91f5780f7ae27adfea4ce0c43d133a0229f6cae",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -436,7 +436,7 @@
       {
         "index": 63,
         "shape": "Shield",
-        "currentHp": 11.8,
+        "currentHp": 2.200000000000002,
         "maxHp": 12
       },
       {
