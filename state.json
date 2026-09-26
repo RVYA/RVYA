@@ -1,5 +1,5 @@
 {
-  "hash": "762f5fb142232a7093b6d25d3ff9e8cd54288ecc429e88c690653c1d4b6e7cac",
+  "hash": "acf4aa8f0d9fdc14ed74a1019085f676e9320bbc0c1abc13f23178120298902b",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -482,7 +482,7 @@
         "index": 70,
         "shape": "Mountain",
         "effect": "Blessed",
-        "currentHp": 11.2,
+        "currentHp": 1.6000000000000005,
         "maxHp": 21
       },
       {
