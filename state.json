@@ -1,5 +1,5 @@
 {
-  "hash": "acf4aa8f0d9fdc14ed74a1019085f676e9320bbc0c1abc13f23178120298902b",
+  "hash": "ab7836a5fc867b41c337db654c41c87712cb0e8234fceea886d5a3d4088d837e",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 1,
-      "tileIndex": 70,
-      "totalTilesBroken": 198
+      "tileIndex": 72,
+      "totalTilesBroken": 200
     },
     "activity": {
       "currentStreak": 7,
@@ -482,20 +482,20 @@
         "index": 70,
         "shape": "Mountain",
         "effect": "Blessed",
-        "currentHp": 1.6000000000000005,
+        "currentHp": 0,
         "maxHp": 21
       },
       {
         "index": 71,
         "shape": "Base",
         "variant": "Dirt",
-        "currentHp": 5,
+        "currentHp": 0,
         "maxHp": 5
       },
       {
         "index": 72,
         "shape": "Biscuit",
-        "currentHp": 4,
+        "currentHp": 1,
         "maxHp": 4
       },
       {
