@@ -1,5 +1,5 @@
 {
-  "hash": "ca40867d02d2b52efec915dd25b9d6ee7b75fe5abbef8daf5fcb863e73b1da74",
+  "hash": "0d39d868ab7cc47cbbbea9da2978755119e68e85ac95a964e486e97ecbf922b8",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -585,7 +585,7 @@
         "shape": "Floral",
         "variant": "Terracotta",
         "effect": "Phase",
-        "currentHp": 11.6,
+        "currentHp": 2.000000000000001,
         "maxHp": 21
       },
       {
