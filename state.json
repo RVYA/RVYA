@@ -1,5 +1,5 @@
 {
-  "hash": "8d3c5eefd438df8d6074cc81cf6af67d1128821cbaeb1d14198b0a466198bd70",
+  "hash": "3b5d43b5bddb85c7025fcdfc1f4abb88077d37b78b3b070a3eac8a1e81d557c6",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -795,7 +795,7 @@
         "index": 119,
         "shape": "Spark",
         "variant": "Moss",
-        "currentHp": 14,
+        "currentHp": 13,
         "maxHp": 21
       },
       {
