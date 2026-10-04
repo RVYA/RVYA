@@ -1,5 +1,5 @@
 {
-  "hash": "f8c87395ef4a9a921dcf0cc391d5fa5adc4292802230f567ea01f37c57733ce2",
+  "hash": "8d3c5eefd438df8d6074cc81cf6af67d1128821cbaeb1d14198b0a466198bd70",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -12,9 +12,9 @@
       "totalTilesBroken": 247
     },
     "activity": {
-      "currentStreak": 7,
+      "currentStreak": 1,
       "highestStreak": 7,
-      "lastActiveDate": "2026-09-09",
+      "lastActiveDate": "2026-10-04",
       "mostDamage": 43.4
     },
     "inventory": {
@@ -795,7 +795,7 @@
         "index": 119,
         "shape": "Spark",
         "variant": "Moss",
-        "currentHp": 20,
+        "currentHp": 14,
         "maxHp": 21
       },
       {
