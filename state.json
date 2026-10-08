@@ -1,5 +1,5 @@
 {
-  "hash": "0e0c00223f4cf1b464a9f8e88338773bc0072e63b4cfc3b994a02b168e3d23f4",
+  "hash": "fe741527ddcebc2158a4bf068ae5ec690d7f9f7b0bdd3cdbc35be7087f672e2e",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 0,
-      "totalTilesBroken": 256
+      "tileIndex": 2,
+      "totalTilesBroken": 258
     },
     "activity": {
       "currentStreak": 2,
@@ -32,19 +32,19 @@
         "index": 0,
         "shape": "Base",
         "effect": "Blessed",
-        "currentHp": 3.8000000000000003,
+        "currentHp": 0,
         "maxHp": 6
       },
       {
         "index": 1,
         "shape": "Half",
-        "currentHp": 2,
+        "currentHp": 0,
         "maxHp": 2
       },
       {
         "index": 2,
         "shape": "Half",
-        "currentHp": 2,
+        "currentHp": 1.2,
         "maxHp": 2
       },
       {
