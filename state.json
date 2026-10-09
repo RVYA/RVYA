@@ -1,5 +1,5 @@
 {
-  "hash": "8ee159f8de00104b7cf83c70147dd5424279dc2b3fec03053394a716befad74c",
+  "hash": "5f137ed55f7121d363f2e1859e0075fcd8dd8a9efd7fc005759ec306f36f8856",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -69,7 +69,7 @@
         "index": 6,
         "shape": "Blob",
         "effect": "Blessed",
-        "currentHp": 7,
+        "currentHp": 0.40000000000000036,
         "maxHp": 8
       },
       {
