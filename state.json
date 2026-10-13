@@ -1,5 +1,5 @@
 {
-  "hash": "3411d8dc5e94287ef06fc210583f1381c9d03d33adeca45363b4880579495084",
+  "hash": "aeca327ddc898234d4cfc3c0dc909bd4faf609d538f96193de7e4cca36981dd9",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 28,
-      "totalTilesBroken": 284
+      "tileIndex": 30,
+      "totalTilesBroken": 286
     },
     "activity": {
       "currentStreak": 2,
@@ -212,20 +212,20 @@
         "shape": "Base",
         "variant": "Terminal",
         "effect": "Vampiric",
-        "currentHp": 0.40000000000000036,
+        "currentHp": 0,
         "maxHp": 7
       },
       {
         "index": 29,
         "shape": "Bread",
-        "currentHp": 6,
+        "currentHp": 0,
         "maxHp": 6
       },
       {
         "index": 30,
         "shape": "Bread",
         "variant": "Dirt",
-        "currentHp": 7,
+        "currentHp": 6.8,
         "maxHp": 7
       },
       {
