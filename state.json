@@ -1,5 +1,5 @@
 {
-  "hash": "3ee5d70d532a424de31668bfd7fc83b56dc1f6222624978f5feb7407337c95af",
+  "hash": "3634bcbdd143685c6327a7c9f63bb4a3928180e44c0e202e0fc3dcaad161054f",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 48,
-      "totalTilesBroken": 304
+      "tileIndex": 50,
+      "totalTilesBroken": 306
     },
     "activity": {
       "currentStreak": 2,
@@ -341,21 +341,21 @@
         "index": 48,
         "shape": "Bread",
         "variant": "Gold",
-        "currentHp": 1.6,
+        "currentHp": 0,
         "maxHp": 9
       },
       {
         "index": 49,
         "shape": "Chipped",
         "variant": "Amber",
-        "currentHp": 4,
+        "currentHp": 0,
         "maxHp": 4
       },
       {
         "index": 50,
         "shape": "Biscuit",
         "effect": "Armored",
-        "currentHp": 10,
+        "currentHp": 9,
         "maxHp": 10
       },
       {
