@@ -1,5 +1,5 @@
 {
-  "hash": "629775ecf698562cdd134e77ef2e55ea4525613c6e7f2fd9e8df1ab9de025b88",
+  "hash": "3ee5d70d532a424de31668bfd7fc83b56dc1f6222624978f5feb7407337c95af",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -341,7 +341,7 @@
         "index": 48,
         "shape": "Bread",
         "variant": "Gold",
-        "currentHp": 8.2,
+        "currentHp": 1.6,
         "maxHp": 9
       },
       {
