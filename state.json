@@ -1,5 +1,5 @@
 {
-  "hash": "dcb126a3d6cdf780012f0e8c3a9cdf68c2a365050d43327d0397a932254b26f7",
+  "hash": "9d75d0f7b86c83b60ad9726f3433ca9e4d2b880a66382081b741d8d0b32a48cd",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -314,7 +314,7 @@
         "index": 44,
         "shape": "Water",
         "effect": "Overcharged",
-        "currentHp": 10.599999999999989,
+        "currentHp": 3.9999999999999907,
         "maxHp": 25
       },
       {
