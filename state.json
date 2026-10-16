@@ -1,5 +1,5 @@
 {
-  "hash": "9d75d0f7b86c83b60ad9726f3433ca9e4d2b880a66382081b741d8d0b32a48cd",
+  "hash": "a92d9463302c740b1d8f25ce7c2a7195b4f3da1af5a5be4869fe634c190662c2",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 44,
-      "totalTilesBroken": 300
+      "tileIndex": 45,
+      "totalTilesBroken": 301
     },
     "activity": {
       "currentStreak": 2,
@@ -314,14 +314,14 @@
         "index": 44,
         "shape": "Water",
         "effect": "Overcharged",
-        "currentHp": 3.9999999999999907,
+        "currentHp": 0,
         "maxHp": 25
       },
       {
         "index": 45,
         "shape": "Biscuit",
         "variant": "Wood",
-        "currentHp": 5,
+        "currentHp": 2.3999999999999995,
         "maxHp": 5
       },
       {
