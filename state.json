@@ -1,5 +1,5 @@
 {
-  "hash": "3634bcbdd143685c6327a7c9f63bb4a3928180e44c0e202e0fc3dcaad161054f",
+  "hash": "246d71db52da149c08447629f088e44461956b0e98148223d3a5f75d1cf7fc35",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -355,7 +355,7 @@
         "index": 50,
         "shape": "Biscuit",
         "effect": "Armored",
-        "currentHp": 9,
+        "currentHp": 2.4000000000000012,
         "maxHp": 10
       },
       {
