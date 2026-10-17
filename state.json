@@ -1,5 +1,5 @@
 {
-  "hash": "246d71db52da149c08447629f088e44461956b0e98148223d3a5f75d1cf7fc35",
+  "hash": "66f27b97efa7fa09d20f0af973a2e8291c69548da78ebd244d8c24bc008b69bd",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 50,
-      "totalTilesBroken": 306
+      "tileIndex": 51,
+      "totalTilesBroken": 307
     },
     "activity": {
       "currentStreak": 2,
@@ -355,13 +355,13 @@
         "index": 50,
         "shape": "Biscuit",
         "effect": "Armored",
-        "currentHp": 2.4000000000000012,
+        "currentHp": 0,
         "maxHp": 10
       },
       {
         "index": 51,
         "shape": "Water",
-        "currentHp": 7,
+        "currentHp": 2.8,
         "maxHp": 7
       },
       {
