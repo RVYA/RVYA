@@ -6,9 +6,9 @@
 <table align="center" width="640" style="width: 100%; max-width: 640px;">
   <tr>
     <td align="center" width="25%">⛰️<i>CHUNK</i><b>#002</b></td>
-    <td align="center" width="25%">🪨<i>TILE</i><b>#053</b></td>
+    <td align="center" width="25%">🪨<i>TILE</i><b>#054</b></td>
     <td align="center" width="25%">🔥<i>STREAK</i><b>#002</b></td>
-    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#309</b></td>
+    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#310</b></td>
   </tr>
   <tr>
     <td colspan="4" align="center">
