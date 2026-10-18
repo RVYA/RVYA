@@ -1,5 +1,5 @@
 {
-  "hash": "4c16359d9f98abe52653569f0cb96ea9a1f81c690c2ae31a1ba857a7fffa20f2",
+  "hash": "715c67bffa5b11834c368e468cc1be0a83b24c54c8eb082b6a64c71746848994",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -426,7 +426,7 @@
         "index": 61,
         "shape": "Shield",
         "variant": "Wood",
-        "currentHp": 15,
+        "currentHp": 8.400000000000002,
         "maxHp": 15
       },
       {
