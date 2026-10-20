@@ -1,5 +1,5 @@
 {
-  "hash": "a03a503482cdeb725e89d92bccdbcbadaaca7dd4334e7146702bd4461b40c492",
+  "hash": "c17e5a4d432de48bc045800be44ea54d151bec4bfa877e33c6f1e5b6b09caf72",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 69,
-      "totalTilesBroken": 325
+      "tileIndex": 71,
+      "totalTilesBroken": 327
     },
     "activity": {
       "currentStreak": 2,
@@ -478,20 +478,20 @@
         "index": 69,
         "shape": "Chipped",
         "effect": "Armored",
-        "currentHp": 2.000000000000001,
+        "currentHp": 0,
         "maxHp": 8
       },
       {
         "index": 70,
         "shape": "Chipped",
-        "currentHp": 3,
+        "currentHp": 0,
         "maxHp": 3
       },
       {
         "index": 71,
         "shape": "Tulip",
         "variant": "Blueprint",
-        "currentHp": 7,
+        "currentHp": 5.4,
         "maxHp": 7
       },
       {
