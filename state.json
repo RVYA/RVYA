@@ -1,5 +1,5 @@
 {
-  "hash": "ec8c2403e381800d12e91e423d25d2d1cdbdce24f48e2ad3c6d7219c2002d07c",
+  "hash": "3726680caffed17a55b1c8cecb2eb96000afa33e2fc56b61b97c2f0c59233be9",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -510,7 +510,7 @@
         "index": 74,
         "shape": "Tulip",
         "effect": "Blessed",
-        "currentHp": 8.2,
+        "currentHp": 1.6,
         "maxHp": 9
       },
       {
