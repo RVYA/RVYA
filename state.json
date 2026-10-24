@@ -1,5 +1,5 @@
 {
-  "hash": "11c4a8ad15fd94be8c29218926c06e2aa653ee00b0ad7e753250cb0947471b16",
+  "hash": "cb916c9adaf507f592280ec1f7cc814f3501566411823f80d9bb4b6a09b2470b",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -619,7 +619,7 @@
         "index": 91,
         "shape": "Blob",
         "effect": "Overcharged",
-        "currentHp": 7.200000000000003,
+        "currentHp": 0.6000000000000032,
         "maxHp": 18
       },
       {
