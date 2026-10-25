@@ -1,5 +1,5 @@
 {
-  "hash": "0459a7a6a504e218799c03d80960a66b757c9132ce872a54aaedb16412219f98",
+  "hash": "6d227766df4a55ab8a24cc64b7cff5509e138c0a32ba4a81ed3eaf2d6575d589",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -667,7 +667,7 @@
         "shape": "Bread",
         "variant": "Moss",
         "effect": "Blessed",
-        "currentHp": 7.4,
+        "currentHp": 0.8000000000000012,
         "maxHp": 11
       },
       {
