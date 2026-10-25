@@ -1,5 +1,5 @@
 {
-  "hash": "b036bf179392bdf36607c994ba1b9f5a0de12297381d063c7fb879ddc45e03fd",
+  "hash": "ba7bdcd8bdb2d00de1ca0178b68b6f925bec0b224b2521e71afd70a0dc1a47f2",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -659,7 +659,7 @@
         "index": 97,
         "shape": "Umbrella",
         "variant": "Dirt",
-        "currentHp": 16.2,
+        "currentHp": 9.600000000000001,
         "maxHp": 18
       },
       {
