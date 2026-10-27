@@ -1,5 +1,5 @@
 {
-  "hash": "815490490ba3e930b8abfaec45634899e63be5d65b37fdc670c2c8b8efd2491f",
+  "hash": "c03f6e8cc028491f9f20ca79f727d8d892ad62afc2114c6c0e24b1c9d9a0f3b1",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -725,7 +725,7 @@
         "index": 107,
         "shape": "Water",
         "variant": "Nebula",
-        "currentHp": 16.8,
+        "currentHp": 10.200000000000003,
         "maxHp": 17
       },
       {
