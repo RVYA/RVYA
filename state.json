@@ -1,5 +1,5 @@
 {
-  "hash": "f2d746accac76dd6815cb42c6cc74a7bc091c11fe4f6f851ec78381be500672d",
+  "hash": "e4e79a6f364326afdd1cd30483e0690b628bb66b7520b883f06e8ab1dc7a56d4",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 2,
-      "tileIndex": 107,
-      "totalTilesBroken": 363
+      "tileIndex": 108,
+      "totalTilesBroken": 364
     },
     "activity": {
       "currentStreak": 2,
@@ -725,14 +725,14 @@
         "index": 107,
         "shape": "Water",
         "variant": "Nebula",
-        "currentHp": 3.6000000000000045,
+        "currentHp": 0,
         "maxHp": 17
       },
       {
         "index": 108,
         "shape": "Biscuit",
         "variant": "Sakura",
-        "currentHp": 5,
+        "currentHp": 2,
         "maxHp": 5
       },
       {
