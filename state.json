@@ -1,5 +1,5 @@
 {
-  "hash": "eb7587c37d125d5eba57179f9b3c07adb5293ebf0881ad1292fc935cdf306716",
+  "hash": "9cfa9df3321a861e963291f3d8a9136d79124f70468acee7b09cb56a206c8ebf",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -789,7 +789,7 @@
         "index": 117,
         "shape": "Umbrella",
         "variant": "Wood",
-        "currentHp": 12.999999999999998,
+        "currentHp": 6.4,
         "maxHp": 20
       },
       {
