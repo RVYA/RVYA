@@ -1,5 +1,5 @@
 {
-  "hash": "bd3f21155debf29390cb5c083e1a4256758596cf179c3708befbcd39038bf8ff",
+  "hash": "fcb114b810c0576b639a2db9a53d09e9a77e442f5b9a1cf012d9d190eecea704",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -8,8 +8,8 @@
     },
     "progress": {
       "chunkIndex": 3,
-      "tileIndex": 14,
-      "totalTilesBroken": 398
+      "tileIndex": 15,
+      "totalTilesBroken": 399
     },
     "activity": {
       "currentStreak": 2,
@@ -125,14 +125,14 @@
         "shape": "Blob",
         "variant": "Moss",
         "effect": "Negative",
-        "currentHp": 3.4,
+        "currentHp": 0,
         "maxHp": 6
       },
       {
         "index": 15,
         "shape": "Base",
         "effect": "Overcharged",
-        "currentHp": 14,
+        "currentHp": 10.8,
         "maxHp": 14
       },
       {
