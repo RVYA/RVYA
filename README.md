@@ -7,7 +7,7 @@
   <tr>
     <td align="center" width="25%">⛰️<i>CHUNK</i><b>#003</b></td>
     <td align="center" width="25%">🪨<i>TILE</i><b>#017</b></td>
-    <td align="center" width="25%">🔥<i>STREAK</i><b>#002</b></td>
+    <td align="center" width="25%">🔥<i>STREAK</i><b>#001</b></td>
     <td align="center" width="25%">⛏️<i>BROKEN</i><b>#401</b></td>
   </tr>
   <tr>
