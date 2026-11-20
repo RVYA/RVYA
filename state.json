@@ -1,5 +1,5 @@
 {
-  "hash": "74b76cbd7bd3157d5f494d27f9c93ae9719fd7902e88ffca2c8598bad355d106",
+  "hash": "523845bb7a97ff9e887cf191877eb8f88d5e72446faa7c5418a2a4dfbf94d2d7",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -146,7 +146,7 @@
         "shape": "Bread",
         "variant": "Wood",
         "effect": "Blessed",
-        "currentHp": 3.0999999999999996,
+        "currentHp": 1.0999999999999996,
         "maxHp": 11
       },
       {
