@@ -1,5 +1,5 @@
 {
-  "hash": "c8f1d777bdca838b28e48f5955f3c537a6fa73a4a8086bff14bfdfeb60a5b180",
+  "hash": "8eab750a79f660b2eadc9e55d8eb8c294b34ab4507e87072d335f7c352564327",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -178,7 +178,7 @@
         "index": 22,
         "shape": "Biscuit",
         "variant": "Terracotta",
-        "currentHp": 2.0999999999999996,
+        "currentHp": 0.09999999999999964,
         "maxHp": 5
       },
       {
