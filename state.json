@@ -1,5 +1,5 @@
 {
-  "hash": "f43e0ff130347a0f1ec2a153f2ada1515fcfe2ce397fd4ec652d267f311a53ca",
+  "hash": "771d293eb908519cf73643ddd4364028face02455dec5d1c7b1369f32b6a3569",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -186,7 +186,7 @@
         "shape": "Biscuit",
         "variant": "Wood",
         "effect": "Echo",
-        "currentHp": 2.1,
+        "currentHp": 0.10000000000000009,
         "maxHp": 4
       },
       {
