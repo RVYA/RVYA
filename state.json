@@ -1,5 +1,5 @@
 {
-  "hash": "a9bbd5ded918595abc97f5c4f10aa5a4e28d0b16c3547a836f03e4dc2e33b813",
+  "hash": "321d1ef180d1c324f5090acb47349b5d943bb7666fb0f58bd7a4340df25a8c83",
   "player": {
     "identity": {
       "username": "RVYA",
@@ -200,7 +200,7 @@
         "index": 25,
         "shape": "Donut",
         "effect": "Blessed",
-        "currentHp": 4.1,
+        "currentHp": 2.0999999999999996,
         "maxHp": 8
       },
       {
